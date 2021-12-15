@@ -1,0 +1,299 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "ANTUCO",
+    "energia_hidro_amen": 0.765,
+    "energia_hidro_dismin_generacion": 23.36,
+    "NOMBRE": "ANTUCO"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.62675,
+     -37.30988
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CANUTILLAR",
+    "energia_hidro_amen": 0.87,
+    "energia_hidro_dismin_generacion": 26.57,
+    "NOMBRE": "CANUTILLAR"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.34179,
+     -41.52813
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CIPRESES",
+    "energia_hidro_amen": 0.593,
+    "energia_hidro_dismin_generacion": 18.12,
+    "NOMBRE": "CIPRESES"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.80773,
+     -35.7866
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "COLBUN",
+    "energia_hidro_amen": 0.901,
+    "energia_hidro_dismin_generacion": 27.51,
+    "NOMBRE": "COLBUN"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.37124,
+     -35.68612
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CURILLINQUE",
+    "energia_hidro_amen": 0.541,
+    "energia_hidro_dismin_generacion": 16.51,
+    "NOMBRE": "CURILLINQUE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.94167,
+     -35.80552
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL TORO",
+    "energia_hidro_amen": 1.0,
+    "energia_hidro_dismin_generacion": 30.54,
+    "NOMBRE": "EL TORO"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.45283,
+     -37.2751
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "ISLA",
+    "energia_hidro_amen": 0.548,
+    "energia_hidro_dismin_generacion": 16.74,
+    "NOMBRE": "ISLA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.83501,
+     -35.80997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LA MINA",
+    "energia_hidro_amen": 0.759,
+    "energia_hidro_dismin_generacion": 23.18,
+    "NOMBRE": "LA MINA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.76762,
+     -35.82067
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LAJA 1",
+    "energia_hidro_amen": 0.218,
+    "energia_hidro_dismin_generacion": 6.66,
+    "NOMBRE": "LAJA 1"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.53029,
+     -37.24404
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LOMA ALTA",
+    "energia_hidro_amen": 0.545,
+    "energia_hidro_dismin_generacion": 16.65,
+    "NOMBRE": "LOMA ALTA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.98186,
+     -35.79082
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "MACHICURA",
+    "energia_hidro_amen": 0.855,
+    "energia_hidro_dismin_generacion": 26.1,
+    "NOMBRE": "MACHICURA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.3978,
+     -35.73245
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PANGUE",
+    "energia_hidro_amen": 0.775,
+    "energia_hidro_dismin_generacion": 23.67,
+    "NOMBRE": "PANGUE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.61214,
+     -37.91078
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PEHUENCHE",
+    "energia_hidro_amen": 0.753,
+    "energia_hidro_dismin_generacion": 23.0,
+    "NOMBRE": "PEHUENCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.16354,
+     -35.7308
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "QUILLECO",
+    "energia_hidro_amen": 0.239,
+    "energia_hidro_dismin_generacion": 7.31,
+    "NOMBRE": "QUILLECO"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.95665,
+     -37.33583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "RALCO",
+    "energia_hidro_amen": 0.664,
+    "energia_hidro_dismin_generacion": 20.29,
+    "NOMBRE": "RALCO"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.51797,
+     -37.99795
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "RAPEL",
+    "energia_hidro_amen": 0.659,
+    "energia_hidro_dismin_generacion": 20.14,
+    "NOMBRE": "RAPEL"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.58879,
+     -34.04127
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "RUCUE",
+    "energia_hidro_amen": 0.239,
+    "energia_hidro_dismin_generacion": 7.31,
+    "NOMBRE": "RUCUE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.86569,
+     -37.36049
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SAN IGNACIO",
+    "energia_hidro_amen": 0.994,
+    "energia_hidro_dismin_generacion": 30.36,
+    "NOMBRE": "SAN IGNACIO"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54146,
+     -35.61467
+    ]
+   }
+  }
+ ]
+}

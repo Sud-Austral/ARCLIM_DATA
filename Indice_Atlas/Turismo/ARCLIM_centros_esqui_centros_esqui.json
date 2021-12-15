@@ -1,0 +1,515 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "1",
+    "NOM_CENTRO_ESQUI": "COMPLEJO INVERNAL PORTILLO",
+    "amen_TUR_02_PRESENTE": 265.2117,
+    "amen_TUR2_FUTURO": 149.8305,
+    "COMUNA": "5301",
+    "delta_cambio_riesgo_TUR_02": 0.1655,
+    "expo_TUR_02_FUTURO": 0.5789,
+    "expo_TUR_02_PRESENTE": 0.5281,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "1",
+    "ind_opt01_TUR_02": 0.5281,
+    "ind_opt02_TUR_02": 0.5789,
+    "ind_opt03_TUR_02": 0.6866,
+    "ind_opt04_TUR_02": 0.764,
+    "ind_opt05_TUR_02": 0.7453,
+    "LATITUD_CENTRO_ESQUI": -32.8357,
+    "LONGITUD_CENTRO_ESQUI": -70.1289,
+    "riesgo_TUR_02_FUTURO": 0.4145,
+    "riesgo_TUR_02_PRESENTE": 0.383,
+    "sensi_TUR_02_FUTURO": 0.716,
+    "sensi_TUR_02_PRESENTE": 0.7253,
+    "$CLIMA$snow_sum$annual$delta": -45.7352,
+    "$CLIMA$snow_sum$annual$present": 240.3099,
+    "$CLIMA$snow_sum$annual$future": 130.4036
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.129,
+     -32.836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "2",
+    "NOM_CENTRO_ESQUI": "CENTRO DE SKI EL ARPA",
+    "amen_TUR_02_PRESENTE": 103.3105,
+    "amen_TUR2_FUTURO": 31.1119,
+    "COMUNA": "5304",
+    "delta_cambio_riesgo_TUR_02": 0.077,
+    "expo_TUR_02_FUTURO": 0.1447,
+    "expo_TUR_02_PRESENTE": 0.132,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "2",
+    "ind_opt01_TUR_02": 0.132,
+    "ind_opt02_TUR_02": 0.1447,
+    "ind_opt03_TUR_02": 0.8657,
+    "ind_opt04_TUR_02": 0.941,
+    "ind_opt05_TUR_02": 0.9363,
+    "LATITUD_CENTRO_ESQUI": -32.6543,
+    "LONGITUD_CENTRO_ESQUI": -70.4761,
+    "riesgo_TUR_02_FUTURO": 0.1304,
+    "riesgo_TUR_02_PRESENTE": 0.1193,
+    "sensi_TUR_02_FUTURO": 0.901,
+    "sensi_TUR_02_PRESENTE": 0.9033,
+    "$CLIMA$snow_sum$annual$delta": -65.1847,
+    "$CLIMA$snow_sum$annual$present": 147.0487,
+    "$CLIMA$snow_sum$annual$future": 51.1955
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.476,
+     -32.654
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "3",
+    "NOM_CENTRO_ESQUI": "CENTRO DE SKI CHAPA VERDE",
+    "amen_TUR_02_PRESENTE": 179.8431,
+    "amen_TUR2_FUTURO": 58.9199,
+    "COMUNA": "6108",
+    "delta_cambio_riesgo_TUR_02": 0.0833,
+    "expo_TUR_02_FUTURO": 0.1979,
+    "expo_TUR_02_PRESENTE": 0.1805,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "3",
+    "ind_opt01_TUR_02": 0.1805,
+    "ind_opt02_TUR_02": 0.1979,
+    "ind_opt03_TUR_02": 0.4627,
+    "ind_opt04_TUR_02": 0.9428,
+    "ind_opt05_TUR_02": 0.9382,
+    "LATITUD_CENTRO_ESQUI": -34.052,
+    "LONGITUD_CENTRO_ESQUI": -70.4331,
+    "riesgo_TUR_02_FUTURO": 0.1386,
+    "riesgo_TUR_02_PRESENTE": 0.1268,
+    "sensi_TUR_02_FUTURO": 0.7005,
+    "sensi_TUR_02_PRESENTE": 0.7027,
+    "$CLIMA$snow_sum$annual$delta": -67.8976,
+    "$CLIMA$snow_sum$annual$present": 134.8506,
+    "$CLIMA$snow_sum$annual$future": 43.2903
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.433,
+     -34.052
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "4",
+    "NOM_CENTRO_ESQUI": "CENTRO DE ESQU\u00cd ANTUCO",
+    "amen_TUR_02_PRESENTE": 30.8547,
+    "amen_TUR2_FUTURO": 6.8592,
+    "COMUNA": "8302",
+    "delta_cambio_riesgo_TUR_02": 0.0319,
+    "expo_TUR_02_FUTURO": 0.0478,
+    "expo_TUR_02_PRESENTE": 0.0436,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "4",
+    "ind_opt01_TUR_02": 0.0436,
+    "ind_opt02_TUR_02": 0.0478,
+    "ind_opt03_TUR_02": 1.0,
+    "ind_opt04_TUR_02": 0.9774,
+    "ind_opt05_TUR_02": 0.9756,
+    "LATITUD_CENTRO_ESQUI": -37.3841,
+    "LONGITUD_CENTRO_ESQUI": -71.3777,
+    "riesgo_TUR_02_FUTURO": 0.0472,
+    "riesgo_TUR_02_PRESENTE": 0.0431,
+    "sensi_TUR_02_FUTURO": 0.9878,
+    "sensi_TUR_02_PRESENTE": 0.9887,
+    "$CLIMA$snow_sum$annual$delta": -68.0111,
+    "$CLIMA$snow_sum$annual$present": 71.1245,
+    "$CLIMA$snow_sum$annual$future": 22.7519
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.378,
+     -37.384
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "5",
+    "NOM_CENTRO_ESQUI": "CENTRO DE ESQU\u00cd VOLC\u00c1N VILLARRICA",
+    "amen_TUR_02_PRESENTE": null,
+    "amen_TUR2_FUTURO": null,
+    "COMUNA": "9115",
+    "delta_cambio_riesgo_TUR_02": 0.0,
+    "expo_TUR_02_FUTURO": 0.9535,
+    "expo_TUR_02_PRESENTE": 0.8699,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "5",
+    "ind_opt01_TUR_02": 0.8699,
+    "ind_opt02_TUR_02": 0.9535,
+    "ind_opt03_TUR_02": 0.0,
+    "ind_opt04_TUR_02": 0.1316,
+    "ind_opt05_TUR_02": 0.0628,
+    "LATITUD_CENTRO_ESQUI": -39.392,
+    "LONGITUD_CENTRO_ESQUI": -39.392,
+    "riesgo_TUR_02_FUTURO": 0.0299,
+    "riesgo_TUR_02_PRESENTE": 0.0572,
+    "sensi_TUR_02_FUTURO": 0.0314,
+    "sensi_TUR_02_PRESENTE": 0.0658,
+    "$CLIMA$snow_sum$annual$delta": -51.9149,
+    "$CLIMA$snow_sum$annual$present": 202.2202,
+    "$CLIMA$snow_sum$annual$future": 97.2377
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.94,
+     -39.392
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "6",
+    "NOM_CENTRO_ESQUI": "CENTRO DE ESQU\u00cd LAS ARAUCARIAS",
+    "amen_TUR_02_PRESENTE": null,
+    "amen_TUR2_FUTURO": null,
+    "COMUNA": "9119",
+    "delta_cambio_riesgo_TUR_02": 0.0,
+    "expo_TUR_02_FUTURO": 0.0615,
+    "expo_TUR_02_PRESENTE": 0.0561,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "6",
+    "ind_opt01_TUR_02": 0.0561,
+    "ind_opt02_TUR_02": 0.0615,
+    "ind_opt03_TUR_02": 0.9254,
+    "ind_opt04_TUR_02": 0.9798,
+    "ind_opt05_TUR_02": 0.9782,
+    "LATITUD_CENTRO_ESQUI": -38.6863,
+    "LONGITUD_CENTRO_ESQUI": -38.6863,
+    "riesgo_TUR_02_FUTURO": 0.0585,
+    "riesgo_TUR_02_PRESENTE": 0.0534,
+    "sensi_TUR_02_FUTURO": 0.9518,
+    "sensi_TUR_02_PRESENTE": 0.9526,
+    "$CLIMA$snow_sum$annual$delta": -65.5555,
+    "$CLIMA$snow_sum$annual$present": 116.7445,
+    "$CLIMA$snow_sum$annual$future": 40.2121
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54,
+     -38.686
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "7",
+    "NOM_CENTRO_ESQUI": "CENTRO DE ESQU\u00cd LOS ARENALES",
+    "amen_TUR_02_PRESENTE": null,
+    "amen_TUR2_FUTURO": null,
+    "COMUNA": "9205",
+    "delta_cambio_riesgo_TUR_02": 0.0,
+    "expo_TUR_02_FUTURO": 0.2459,
+    "expo_TUR_02_PRESENTE": 0.2243,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "7",
+    "ind_opt01_TUR_02": 0.2243,
+    "ind_opt02_TUR_02": 0.2459,
+    "ind_opt03_TUR_02": 0.7612,
+    "ind_opt04_TUR_02": 0.9194,
+    "ind_opt05_TUR_02": 0.913,
+    "LATITUD_CENTRO_ESQUI": -38.4281,
+    "LONGITUD_CENTRO_ESQUI": -38.4281,
+    "riesgo_TUR_02_FUTURO": 0.2058,
+    "riesgo_TUR_02_PRESENTE": 0.1885,
+    "sensi_TUR_02_FUTURO": 0.8371,
+    "sensi_TUR_02_PRESENTE": 0.8403,
+    "$CLIMA$snow_sum$annual$delta": -59.0805,
+    "$CLIMA$snow_sum$annual$present": 226.8316,
+    "$CLIMA$snow_sum$annual$future": 92.8184
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.45,
+     -38.428
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "8",
+    "NOM_CENTRO_ESQUI": "CENTRO DE ESQU\u00cd VOLC\u00c1N OSORNO",
+    "amen_TUR_02_PRESENTE": 46.7559,
+    "amen_TUR2_FUTURO": 11.5499,
+    "COMUNA": "10304",
+    "delta_cambio_riesgo_TUR_02": 0.2792,
+    "expo_TUR_02_FUTURO": 0.7935,
+    "expo_TUR_02_PRESENTE": 0.7239,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "8",
+    "ind_opt01_TUR_02": 0.7239,
+    "ind_opt02_TUR_02": 0.7935,
+    "ind_opt03_TUR_02": 0.4179,
+    "ind_opt04_TUR_02": 0.5899,
+    "ind_opt05_TUR_02": 0.5574,
+    "LATITUD_CENTRO_ESQUI": -41.1278,
+    "LONGITUD_CENTRO_ESQUI": -72.532,
+    "riesgo_TUR_02_FUTURO": 0.387,
+    "riesgo_TUR_02_PRESENTE": 0.3648,
+    "sensi_TUR_02_FUTURO": 0.4877,
+    "sensi_TUR_02_PRESENTE": 0.5039,
+    "$CLIMA$snow_sum$annual$delta": -75.2998,
+    "$CLIMA$snow_sum$annual$present": 37.8011,
+    "$CLIMA$snow_sum$annual$future": 9.337
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.532,
+     -41.128
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "9",
+    "NOM_CENTRO_ESQUI": "CENTRO DE ESQU\u00cd ANTILLANCA",
+    "amen_TUR_02_PRESENTE": 25.5101,
+    "amen_TUR2_FUTURO": 4.3595,
+    "COMUNA": "10109",
+    "delta_cambio_riesgo_TUR_02": 0.3855,
+    "expo_TUR_02_FUTURO": 0.7323,
+    "expo_TUR_02_PRESENTE": 0.668,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "9",
+    "ind_opt01_TUR_02": 0.668,
+    "ind_opt02_TUR_02": 0.7323,
+    "ind_opt03_TUR_02": 0.791,
+    "ind_opt04_TUR_02": 0.6603,
+    "ind_opt05_TUR_02": 0.6334,
+    "LATITUD_CENTRO_ESQUI": -40.7757,
+    "LONGITUD_CENTRO_ESQUI": -72.2032,
+    "riesgo_TUR_02_FUTURO": 0.5215,
+    "riesgo_TUR_02_PRESENTE": 0.4848,
+    "sensi_TUR_02_FUTURO": 0.7122,
+    "sensi_TUR_02_PRESENTE": 0.7257,
+    "$CLIMA$snow_sum$annual$delta": -72.6944,
+    "$CLIMA$snow_sum$annual$present": 69.2536,
+    "$CLIMA$snow_sum$annual$future": 18.9101
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.203,
+     -40.776
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "10",
+    "NOM_CENTRO_ESQUI": "CENTRO DE ESQU\u00cd EL FRAILE",
+    "amen_TUR_02_PRESENTE": 52.4739,
+    "amen_TUR2_FUTURO": 24.8906,
+    "COMUNA": "11101",
+    "delta_cambio_riesgo_TUR_02": 0.1281,
+    "expo_TUR_02_FUTURO": 0.3941,
+    "expo_TUR_02_PRESENTE": 0.3595,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "10",
+    "ind_opt01_TUR_02": 0.3595,
+    "ind_opt02_TUR_02": 0.3941,
+    "ind_opt03_TUR_02": 0.3582,
+    "ind_opt04_TUR_02": 0.805,
+    "ind_opt05_TUR_02": 0.7896,
+    "LATITUD_CENTRO_ESQUI": -45.6355,
+    "LONGITUD_CENTRO_ESQUI": -71.999,
+    "riesgo_TUR_02_FUTURO": 0.2262,
+    "riesgo_TUR_02_PRESENTE": 0.2091,
+    "sensi_TUR_02_FUTURO": 0.5739,
+    "sensi_TUR_02_PRESENTE": 0.5816,
+    "$CLIMA$snow_sum$annual$delta": -50.8651,
+    "$CLIMA$snow_sum$annual$present": 73.4611,
+    "$CLIMA$snow_sum$annual$future": 36.0951
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.999,
+     -45.636
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "11",
+    "NOM_CENTRO_ESQUI": "CENTRO DE ESQU\u00cd CERRO MIRADOR",
+    "amen_TUR_02_PRESENTE": 61.0987,
+    "amen_TUR2_FUTURO": 30.1085,
+    "COMUNA": "12101",
+    "delta_cambio_riesgo_TUR_02": 0.1519,
+    "expo_TUR_02_FUTURO": 0.8894,
+    "expo_TUR_02_PRESENTE": 0.8114,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "11",
+    "ind_opt01_TUR_02": 0.8114,
+    "ind_opt02_TUR_02": 0.8894,
+    "ind_opt03_TUR_02": 0.1642,
+    "ind_opt04_TUR_02": 0.5363,
+    "ind_opt05_TUR_02": 0.4995,
+    "LATITUD_CENTRO_ESQUI": -53.364,
+    "LONGITUD_CENTRO_ESQUI": -71.2767,
+    "riesgo_TUR_02_FUTURO": 0.2952,
+    "riesgo_TUR_02_PRESENTE": 0.2842,
+    "sensi_TUR_02_FUTURO": 0.3319,
+    "sensi_TUR_02_PRESENTE": 0.3502,
+    "$CLIMA$snow_sum$annual$delta": -47.5335,
+    "$CLIMA$snow_sum$annual$present": 70.2757,
+    "$CLIMA$snow_sum$annual$future": 36.8712
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.277,
+     -53.364
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "12",
+    "NOM_CENTRO_ESQUI": "CENTROS DE ESQU\u00cd VALLE NEVADO, PARVA, FARELLONES, Y EL COLORADO",
+    "amen_TUR_02_PRESENTE": 184.1908,
+    "amen_TUR2_FUTURO": 86.5161,
+    "COMUNA": "13115",
+    "delta_cambio_riesgo_TUR_02": 0.4178,
+    "expo_TUR_02_FUTURO": 1.0,
+    "expo_TUR_02_PRESENTE": 0.9123,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "12",
+    "ind_opt01_TUR_02": 0.9123,
+    "ind_opt02_TUR_02": 1.0,
+    "ind_opt03_TUR_02": 0.9104,
+    "ind_opt04_TUR_02": 0.7833,
+    "ind_opt05_TUR_02": 0.7662,
+    "LATITUD_CENTRO_ESQUI": -33.3574,
+    "LONGITUD_CENTRO_ESQUI": -70.2487,
+    "riesgo_TUR_02_FUTURO": 0.8383,
+    "riesgo_TUR_02_PRESENTE": 0.7726,
+    "sensi_TUR_02_FUTURO": 0.8383,
+    "sensi_TUR_02_PRESENTE": 0.8469,
+    "$CLIMA$snow_sum$annual$delta": -54.3284,
+    "$CLIMA$snow_sum$annual$present": 167.9048,
+    "$CLIMA$snow_sum$annual$future": 76.6847
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.249,
+     -33.357
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "13",
+    "NOM_CENTRO_ESQUI": "CENTRO DE ESQU\u00cd LAGUNILLAS",
+    "amen_TUR_02_PRESENTE": 30.7647,
+    "amen_TUR2_FUTURO": 8.8567,
+    "COMUNA": "13203",
+    "delta_cambio_riesgo_TUR_02": 0.1369,
+    "expo_TUR_02_FUTURO": 0.25,
+    "expo_TUR_02_PRESENTE": 0.2281,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "13",
+    "ind_opt01_TUR_02": 0.2281,
+    "ind_opt02_TUR_02": 0.25,
+    "ind_opt03_TUR_02": 0.6866,
+    "ind_opt04_TUR_02": 0.9458,
+    "ind_opt05_TUR_02": 0.9415,
+    "LATITUD_CENTRO_ESQUI": -33.6077,
+    "LONGITUD_CENTRO_ESQUI": -70.2885,
+    "riesgo_TUR_02_FUTURO": 0.2035,
+    "riesgo_TUR_02_PRESENTE": 0.1862,
+    "sensi_TUR_02_FUTURO": 0.8141,
+    "sensi_TUR_02_PRESENTE": 0.8162,
+    "$CLIMA$snow_sum$annual$delta": -71.8174,
+    "$CLIMA$snow_sum$annual$present": 15.1846,
+    "$CLIMA$snow_sum$annual$future": 4.2794
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.289,
+     -33.608
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "14",
+    "NOM_CENTRO_ESQUI": "CENTRO ESQU\u00cd TERMAS CHILL\u00c1N",
+    "amen_TUR_02_PRESENTE": 110.1392,
+    "amen_TUR2_FUTURO": 32.6104,
+    "COMUNA": "16106",
+    "delta_cambio_riesgo_TUR_02": 0.1094,
+    "expo_TUR_02_FUTURO": 0.1913,
+    "expo_TUR_02_PRESENTE": 0.1745,
+    "expo_TUR2_FUTURO": 1.0,
+    "id": "14",
+    "ind_opt01_TUR_02": 0.1745,
+    "ind_opt02_TUR_02": 0.1913,
+    "ind_opt03_TUR_02": 0.8657,
+    "ind_opt04_TUR_02": 0.9096,
+    "ind_opt05_TUR_02": 0.9025,
+    "LATITUD_CENTRO_ESQUI": -36.9104,
+    "LONGITUD_CENTRO_ESQUI": -71.4177,
+    "riesgo_TUR_02_FUTURO": 0.1691,
+    "riesgo_TUR_02_PRESENTE": 0.1549,
+    "sensi_TUR_02_FUTURO": 0.8841,
+    "sensi_TUR_02_PRESENTE": 0.8877,
+    "$CLIMA$snow_sum$annual$delta": -61.93,
+    "$CLIMA$snow_sum$annual$present": 277.097,
+    "$CLIMA$snow_sum$annual$future": 105.4908
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.418,
+     -36.91
+    ]
+   }
+  }
+ ]
+}

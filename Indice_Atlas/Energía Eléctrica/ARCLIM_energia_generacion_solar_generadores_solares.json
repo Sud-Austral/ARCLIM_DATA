@@ -1,0 +1,2123 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "ALTURAS DE OVALLE\u00a0[0]",
+    "NOMBRE": "ALTURAS DE OVALLE",
+    "energia_solar_dismin_generacion": 1.3998,
+    "energia_solar_amen": -1.308
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2397,
+     -30.55262
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "AMPARO DEL SOL\u00a0[1]",
+    "NOMBRE": "AMPARO DEL SOL",
+    "energia_solar_dismin_generacion": 1.3998,
+    "energia_solar_amen": -1.308
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.32852,
+     -30.6122
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "ANDES SOLAR\u00a0[2]",
+    "NOMBRE": "ANDES SOLAR",
+    "energia_solar_dismin_generacion": 0.1031,
+    "energia_solar_amen": -0.096
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.57215,
+     -24.00129
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "BELLAVISTA\u00a0[3]",
+    "NOMBRE": "BELLAVISTA",
+    "energia_solar_dismin_generacion": 1.7079,
+    "energia_solar_amen": -1.595
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.22094,
+     -31.66627
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CABILSOL\u00a0[4]",
+    "NOMBRE": "CABILSOL",
+    "energia_solar_dismin_generacion": 2.863,
+    "energia_solar_amen": -2.674
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.10318,
+     -32.46645
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CALAMA SOLAR 1\u00a0[5]",
+    "NOMBRE": "CALAMA SOLAR 1",
+    "energia_solar_dismin_generacion": 0.21,
+    "energia_solar_amen": -0.196
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.87014,
+     -22.44422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CARRERA PINTO ETAPA I\u00a0[6]",
+    "NOMBRE": "CARRERA PINTO ETAPA I",
+    "energia_solar_dismin_generacion": -0.0732,
+    "energia_solar_amen": 0.068
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.86704,
+     -27.00424
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CHANARES\u00a0[7]",
+    "NOMBRE": "CHANARES",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.08013,
+     -26.37306
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CHANCON\u00a0[8]",
+    "NOMBRE": "CHANCON",
+    "energia_solar_dismin_generacion": 3.2917,
+    "energia_solar_amen": -3.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.82221,
+     -34.09127
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CONEJO SOLAR\u00a0[9]",
+    "NOMBRE": "CONEJO SOLAR",
+    "energia_solar_dismin_generacion": -0.0991,
+    "energia_solar_amen": 0.093
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.1629,
+     -25.5041
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CORDILLERILLA\u00a0[10]",
+    "NOMBRE": "CORDILLERILLA",
+    "energia_solar_dismin_generacion": 3.5281,
+    "energia_solar_amen": -3.296
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.13232,
+     -35.1627
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "DON EUGENIO\u00a0[11]",
+    "NOMBRE": "DON EUGENIO",
+    "energia_solar_dismin_generacion": 3.3166,
+    "energia_solar_amen": -3.098
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.38614,
+     -34.26502
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL BOCO\u00a0[12]",
+    "NOMBRE": "EL BOCO",
+    "energia_solar_dismin_generacion": 3.018,
+    "energia_solar_amen": -2.819
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.24489,
+     -32.8551
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL DIVISADERO\u00a0[13]",
+    "NOMBRE": "EL DIVISADERO",
+    "energia_solar_dismin_generacion": 1.7079,
+    "energia_solar_amen": -1.595
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.12747,
+     -30.84574
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL PILPEN\u00a0[14]",
+    "NOMBRE": "EL PILPEN",
+    "energia_solar_dismin_generacion": 3.202,
+    "energia_solar_amen": -2.991
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.24277,
+     -33.55888
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL PITIO\u00a0[15]",
+    "NOMBRE": "EL PITIO",
+    "energia_solar_dismin_generacion": 3.4002,
+    "energia_solar_amen": -3.176
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.69565,
+     -35.9758
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL QUELTEHUE\u00a0[16]",
+    "NOMBRE": "EL QUELTEHUE",
+    "energia_solar_dismin_generacion": 3.0493,
+    "energia_solar_amen": -2.848
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.21462,
+     -33.56065
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL ROBLE\u00a0[17]",
+    "NOMBRE": "EL ROBLE",
+    "energia_solar_dismin_generacion": 3.5281,
+    "energia_solar_amen": -3.296
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.388,
+     -34.03583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL SAUCE\u00a0[18]",
+    "NOMBRE": "EL SAUCE",
+    "energia_solar_dismin_generacion": 3.5281,
+    "energia_solar_amen": -3.296
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.37281,
+     -34.07989
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "FRANCISCO SOLAR\u00a0[19]",
+    "NOMBRE": "FRANCISCO SOLAR",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.63093,
+     -34.00024
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "FV BOLERO\u00a0[20]",
+    "NOMBRE": "FV BOLERO",
+    "energia_solar_dismin_generacion": 0.0181,
+    "energia_solar_amen": -0.017
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.40927,
+     -23.46973
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "HOMERO SOLAR\u00a0[21]",
+    "NOMBRE": "HOMERO SOLAR",
+    "energia_solar_dismin_generacion": 3.202,
+    "energia_solar_amen": -2.991
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.63996,
+     -33.96411
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LA ACACIA\u00a0[22]",
+    "NOMBRE": "LA ACACIA",
+    "energia_solar_dismin_generacion": 3.1092,
+    "energia_solar_amen": -2.904
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.08363,
+     -34.48549
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LA CHAPEANA\u00a0[23]",
+    "NOMBRE": "LA CHAPEANA",
+    "energia_solar_dismin_generacion": 1.3998,
+    "energia_solar_amen": -1.308
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.11217,
+     -30.5165
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LA QUINTA SOLAR\u00a0[24]",
+    "NOMBRE": "LA QUINTA SOLAR",
+    "energia_solar_dismin_generacion": 3.3166,
+    "energia_solar_amen": -3.098
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.71171,
+     -33.02892
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LALACKAMA\u00a0[25]",
+    "NOMBRE": "LALACKAMA",
+    "energia_solar_dismin_generacion": -0.0856,
+    "energia_solar_amen": 0.08
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.30305,
+     -25.11923
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LALACKAMA 2\u00a0[26]",
+    "NOMBRE": "LALACKAMA 2",
+    "energia_solar_dismin_generacion": -0.0856,
+    "energia_solar_amen": 0.08
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.30988,
+     -25.10889
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LAS ARAUCARIAS\u00a0[27]",
+    "NOMBRE": "LAS ARAUCARIAS",
+    "energia_solar_dismin_generacion": 3.2917,
+    "energia_solar_amen": -3.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.71164,
+     -33.34603
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LAS MOLLACAS\u00a0[28]",
+    "NOMBRE": "LAS MOLLACAS",
+    "energia_solar_dismin_generacion": 1.3998,
+    "energia_solar_amen": -1.308
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.22556,
+     -30.67633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LAS TURCAS\u00a0[29]",
+    "NOMBRE": "LAS TURCAS",
+    "energia_solar_dismin_generacion": 3.4639,
+    "energia_solar_amen": -3.236
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.28206,
+     -33.80384
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LOS PUQUIOS\u00a0[30]",
+    "NOMBRE": "LOS PUQUIOS",
+    "energia_solar_dismin_generacion": 0.211,
+    "energia_solar_amen": -0.197
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.54557,
+     -20.43731
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LUNA DEL NORTE\u00a0[31]",
+    "NOMBRE": "LUNA DEL NORTE",
+    "energia_solar_dismin_generacion": 0.6122,
+    "energia_solar_amen": -0.572
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.68001,
+     -30.04019
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LUZ DEL NORTE\u00a0[32]",
+    "NOMBRE": "LUZ DEL NORTE",
+    "energia_solar_dismin_generacion": -0.0732,
+    "energia_solar_amen": 0.068
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.89286,
+     -27.02625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "MARIA ELENA FV\u00a0[33]",
+    "NOMBRE": "MARIA ELENA FV",
+    "energia_solar_dismin_generacion": 0.083,
+    "energia_solar_amen": -0.078
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.57663,
+     -22.2204
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "OCOA\u00a0[34]",
+    "NOMBRE": "OCOA",
+    "energia_solar_dismin_generacion": 2.8755,
+    "energia_solar_amen": -2.686
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.05888,
+     -32.79606
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PAMPA SOLAR NORTE\u00a0[35]",
+    "NOMBRE": "PAMPA SOLAR NORTE",
+    "energia_solar_dismin_generacion": -0.0991,
+    "energia_solar_amen": 0.093
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.17987,
+     -25.53295
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PARQUE SOLAR CUZ CUZ\u00a0[36]",
+    "NOMBRE": "PARQUE SOLAR CUZ CUZ",
+    "energia_solar_dismin_generacion": 1.3998,
+    "energia_solar_amen": -1.308
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.21522,
+     -31.66307
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PARQUE SOLAR FINIS TERRAE\u00a0[37]",
+    "NOMBRE": "PARQUE SOLAR FINIS TERRAE",
+    "energia_solar_dismin_generacion": 0.0798,
+    "energia_solar_amen": -0.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.52243,
+     -22.34464
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PARQUE SOLAR OVEJERIA\u00a0[38]",
+    "NOMBRE": "PARQUE SOLAR OVEJERIA",
+    "energia_solar_dismin_generacion": 3.2917,
+    "energia_solar_amen": -3.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.76821,
+     -33.09493
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PARQUE SOLAR PAMPA CAMARONES\u00a0[39]",
+    "NOMBRE": "PARQUE SOLAR PAMPA CAMARONES",
+    "energia_solar_dismin_generacion": -1.0705,
+    "energia_solar_amen": 1.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.11258,
+     -18.88578
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PERALILLO\u00a0[40]",
+    "NOMBRE": "PERALILLO",
+    "energia_solar_dismin_generacion": 3.3567,
+    "energia_solar_amen": -3.136
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.71169,
+     -35.0367
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PFV EL PICURIO\u00a0[41]",
+    "NOMBRE": "PFV EL PICURIO",
+    "energia_solar_dismin_generacion": 3.4232,
+    "energia_solar_amen": -3.198
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.06181,
+     -34.79911
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PFV LAGUNILLA\u00a0[42]",
+    "NOMBRE": "PFV LAGUNILLA",
+    "energia_solar_dismin_generacion": 1.3998,
+    "energia_solar_amen": -1.308
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.1119,
+     -30.50755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PFV LOS GORRIONES\u00a0[43]",
+    "NOMBRE": "PFV LOS GORRIONES",
+    "energia_solar_dismin_generacion": 3.4002,
+    "energia_solar_amen": -3.176
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.76103,
+     -36.03395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PFV LOS LOROS\u00a0[44]",
+    "NOMBRE": "PFV LOS LOROS",
+    "energia_solar_dismin_generacion": -0.091,
+    "energia_solar_amen": 0.085
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.16848,
+     -27.85138
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PFV LUDERS\u00a0[45]",
+    "NOMBRE": "PFV LUDERS",
+    "energia_solar_dismin_generacion": 3.2917,
+    "energia_solar_amen": -3.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.63167,
+     -33.99441
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PFV MARCHIGUE II\u00a0[46]",
+    "NOMBRE": "PFV MARCHIGUE II",
+    "energia_solar_dismin_generacion": 3.5281,
+    "energia_solar_amen": -3.296
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.66612,
+     -34.40669
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PFV MOSTAZAL\u00a0[47]",
+    "NOMBRE": "PFV MOSTAZAL",
+    "energia_solar_dismin_generacion": 3.202,
+    "energia_solar_amen": -2.991
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.67328,
+     -33.98439
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PFV SAN PEDRO\u00a0[48]",
+    "NOMBRE": "PFV SAN PEDRO",
+    "energia_solar_dismin_generacion": 3.4639,
+    "energia_solar_amen": -3.236
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.44139,
+     -33.90165
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PILOTO SOLAR CARDONES\u00a0[49]",
+    "NOMBRE": "PILOTO SOLAR CARDONES",
+    "energia_solar_dismin_generacion": -0.091,
+    "energia_solar_amen": 0.085
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.44039,
+     -27.59346
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PLANTA PV CERRO DOMINADOR\u00a0[50]",
+    "NOMBRE": "PLANTA PV CERRO DOMINADOR",
+    "energia_solar_dismin_generacion": 0.1199,
+    "energia_solar_amen": -0.112
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.45973,
+     -22.79296
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PMGD PICA PILOT\u00a0[51]",
+    "NOMBRE": "PMGD PICA PILOT",
+    "energia_solar_dismin_generacion": 0.211,
+    "energia_solar_amen": -0.197
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.44902,
+     -20.49921
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "POZO ALMONTE SOLAR 1\u00a0[52]",
+    "NOMBRE": "POZO ALMONTE SOLAR 1",
+    "energia_solar_dismin_generacion": 0.1206,
+    "energia_solar_amen": -0.113
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.75221,
+     -20.26858
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "POZO ALMONTE SOLAR 2\u00a0[53]",
+    "NOMBRE": "POZO ALMONTE SOLAR 2",
+    "energia_solar_dismin_generacion": 0.1206,
+    "energia_solar_amen": -0.113
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.75205,
+     -20.27406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "POZO ALMONTE SOLAR 3\u00a0[54]",
+    "NOMBRE": "POZO ALMONTE SOLAR 3",
+    "energia_solar_dismin_generacion": 0.1206,
+    "energia_solar_amen": -0.113
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.75025,
+     -20.2488
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PUERTO SECO SOLAR\u00a0[55]",
+    "NOMBRE": "PUERTO SECO SOLAR",
+    "energia_solar_dismin_generacion": 0.21,
+    "energia_solar_amen": -0.196
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.87012,
+     -22.44992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PV SALVADOR\u00a0[56]",
+    "NOMBRE": "PV SALVADOR",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.86556,
+     -26.31068
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "QUILAPILUN\u00a0[57]",
+    "NOMBRE": "QUILAPILUN",
+    "energia_solar_dismin_generacion": 2.8755,
+    "energia_solar_amen": -2.686
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.68793,
+     -33.1037
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "RODEO\u00a0[58]",
+    "NOMBRE": "RODEO",
+    "energia_solar_dismin_generacion": 3.6891,
+    "energia_solar_amen": -3.446
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.96231,
+     -32.76989
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SAN FRANCISCO SOLAR\u00a0[59]",
+    "NOMBRE": "SAN FRANCISCO SOLAR",
+    "energia_solar_dismin_generacion": 2.8279,
+    "energia_solar_amen": -2.642
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.70382,
+     -33.0401
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SANTA JULIA\u00a0[60]",
+    "NOMBRE": "SANTA JULIA",
+    "energia_solar_dismin_generacion": 2.863,
+    "energia_solar_amen": -2.674
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.10395,
+     -32.30107
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SANTIAGO SOLAR\u00a0[61]",
+    "NOMBRE": "SANTIAGO SOLAR",
+    "energia_solar_dismin_generacion": 2.8755,
+    "energia_solar_amen": -2.686
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.86172,
+     -33.0779
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SANTUARIO SOLAR\u00a0[62]",
+    "NOMBRE": "SANTUARIO SOLAR",
+    "energia_solar_dismin_generacion": 2.8755,
+    "energia_solar_amen": -2.686
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6884,
+     -32.89183
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SDGX01\u00a0[63]",
+    "NOMBRE": "SDGX01",
+    "energia_solar_dismin_generacion": 0.6122,
+    "energia_solar_amen": -0.572
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.09248,
+     -30.22716
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOL DEL NORTE\u00a0[64]",
+    "NOMBRE": "SOL DEL NORTE",
+    "energia_solar_dismin_generacion": 0.6122,
+    "energia_solar_amen": -0.572
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.68371,
+     -30.04006
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR ANTAY\u00a0[65]",
+    "NOMBRE": "SOLAR ANTAY",
+    "energia_solar_dismin_generacion": -0.091,
+    "energia_solar_amen": 0.085
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.38049,
+     -27.49428
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR CHUCHINI\u00a0[66]",
+    "NOMBRE": "SOLAR CHUCHINI",
+    "energia_solar_dismin_generacion": 1.3998,
+    "energia_solar_amen": -1.308
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.07885,
+     -31.74682
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR DIEGO DE ALMAGRO\u00a0[67]",
+    "NOMBRE": "SOLAR DIEGO DE ALMAGRO",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.02006,
+     -26.37893
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR EL AGUILA I\u00a0[68]",
+    "NOMBRE": "SOLAR EL AGUILA I",
+    "energia_solar_dismin_generacion": 0.1053,
+    "energia_solar_amen": -0.098
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.88672,
+     -18.44546
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR EL ROMERO\u00a0[69]",
+    "NOMBRE": "SOLAR EL ROMERO",
+    "energia_solar_dismin_generacion": 0.2558,
+    "energia_solar_amen": -0.239
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.90793,
+     -29.10949
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR ESPERANZA\u00a0[70]",
+    "NOMBRE": "SOLAR ESPERANZA",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.62753,
+     -26.29338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR HORMIGA\u00a0[71]",
+    "NOMBRE": "SOLAR HORMIGA",
+    "energia_solar_dismin_generacion": 2.8755,
+    "energia_solar_amen": -2.686
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.72022,
+     -32.71604
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR HORNITOS\u00a0[72]",
+    "NOMBRE": "SOLAR HORNITOS",
+    "energia_solar_dismin_generacion": -0.091,
+    "energia_solar_amen": 0.085
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.1912,
+     -27.73469
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR JAMA 1\u00a0[73]",
+    "NOMBRE": "SOLAR JAMA 1",
+    "energia_solar_dismin_generacion": 0.2961,
+    "energia_solar_amen": -0.277
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.69941,
+     -22.58605
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR JAMA 2\u00a0[74]",
+    "NOMBRE": "SOLAR JAMA 2",
+    "energia_solar_dismin_generacion": 0.2961,
+    "energia_solar_amen": -0.277
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.69941,
+     -22.58605
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR JAVIERA\u00a0[75]",
+    "NOMBRE": "SOLAR JAVIERA",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.22074,
+     -26.30374
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR LA SILLA\u00a0[76]",
+    "NOMBRE": "SOLAR LA SILLA",
+    "energia_solar_dismin_generacion": 0.2476,
+    "energia_solar_amen": -0.231
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.74373,
+     -29.21137
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR LAS TERRAZAS\u00a0[77]",
+    "NOMBRE": "SOLAR LAS TERRAZAS",
+    "energia_solar_dismin_generacion": -0.091,
+    "energia_solar_amen": 0.085
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.3408,
+     -27.62854
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR LLANO DE LLAMPOS\u00a0[78]",
+    "NOMBRE": "SOLAR LLANO DE LLAMPOS",
+    "energia_solar_dismin_generacion": -0.0781,
+    "energia_solar_amen": 0.073
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.17114,
+     -27.11746
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR NILHUE\u00a0[79]",
+    "NOMBRE": "SOLAR NILHUE",
+    "energia_solar_dismin_generacion": 2.8755,
+    "energia_solar_amen": -2.686
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9263,
+     -32.71055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR PSF CASAS BLANCAS\u00a0[80]",
+    "NOMBRE": "SOLAR PSF CASAS BLANCAS",
+    "energia_solar_dismin_generacion": 1.7079,
+    "energia_solar_amen": -1.595
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.03082,
+     -31.19498
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR PSF LOMAS COLORADAS\u00a0[81]",
+    "NOMBRE": "SOLAR PSF LOMAS COLORADAS",
+    "energia_solar_dismin_generacion": 1.7079,
+    "energia_solar_amen": -1.595
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.02255,
+     -31.18638
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR SAN ANDRES\u00a0[82]",
+    "NOMBRE": "SOLAR SAN ANDRES",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.11122,
+     -27.25422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR SANTA CECILIA\u00a0[83]",
+    "NOMBRE": "SOLAR SANTA CECILIA",
+    "energia_solar_dismin_generacion": 0.2476,
+    "energia_solar_amen": -0.231
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.91339,
+     -29.11718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR TECHOS ALTAMIRA\u00a0[84]",
+    "NOMBRE": "SOLAR TECHOS ALTAMIRA",
+    "energia_solar_dismin_generacion": 3.3166,
+    "energia_solar_amen": -3.098
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.53801,
+     -33.47911
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SPS LA HUAYCA\u00a0[85]",
+    "NOMBRE": "SPS LA HUAYCA",
+    "energia_solar_dismin_generacion": 0.211,
+    "energia_solar_amen": -0.197
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.53401,
+     -20.45456
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "TAMBO REAL\u00a0[86]",
+    "NOMBRE": "TAMBO REAL",
+    "energia_solar_dismin_generacion": 0.6122,
+    "energia_solar_amen": -0.572
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.77019,
+     -30.04853
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "TILTIL SOLAR\u00a0[87]",
+    "NOMBRE": "TILTIL SOLAR",
+    "energia_solar_dismin_generacion": 3.018,
+    "energia_solar_amen": -2.819
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.81997,
+     -32.95755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "URIBE SOLAR\u00a0[88]",
+    "NOMBRE": "URIBE SOLAR",
+    "energia_solar_dismin_generacion": -0.2425,
+    "energia_solar_amen": 0.227
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.21661,
+     -23.56178
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "VALLE DE LA LUNA II\u00a0[89]",
+    "NOMBRE": "VALLE DE LA LUNA II",
+    "energia_solar_dismin_generacion": 3.0493,
+    "energia_solar_amen": -2.848
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.87008,
+     -33.27176
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "VILLA PRAT\u00a0[90]",
+    "NOMBRE": "VILLA PRAT",
+    "energia_solar_dismin_generacion": 3.4232,
+    "energia_solar_amen": -3.198
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.62691,
+     -35.11311
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "ALICAHUE\u00a0[91]",
+    "NOMBRE": "ALICAHUE",
+    "energia_solar_dismin_generacion": 2.863,
+    "energia_solar_amen": -2.674
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.90288,
+     -32.40392
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PLANTA SOLAR FOTOVOLTAICA ARICA I\u00a0[92]",
+    "NOMBRE": "PLANTA SOLAR FOTOVOLTAICA ARICA I",
+    "energia_solar_dismin_generacion": 0.1251,
+    "energia_solar_amen": -0.117
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.08857,
+     -18.50292
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PLANTA SOLAR FOTOVOLTAICA ARICA II\u00a0[93]",
+    "NOMBRE": "PLANTA SOLAR FOTOVOLTAICA ARICA II",
+    "energia_solar_dismin_generacion": 0.1251,
+    "energia_solar_amen": -0.117
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.07216,
+     -18.51065
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "BLUE SKY I\u00a0[94]",
+    "NOMBRE": "BLUE SKY I",
+    "energia_solar_dismin_generacion": 0.0798,
+    "energia_solar_amen": -0.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.52438,
+     -22.33006
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "BLUE SKY II\u00a0[95]",
+    "NOMBRE": "BLUE SKY II",
+    "energia_solar_dismin_generacion": 0.0798,
+    "energia_solar_amen": -0.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.52428,
+     -22.33013
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CACHIYUYO\u00a0[96]",
+    "NOMBRE": "CACHIYUYO",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.21724,
+     -27.84077
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PLANTA CSP CERRO DOMINADOR\u00a0[97]",
+    "NOMBRE": "PLANTA CSP CERRO DOMINADOR",
+    "energia_solar_dismin_generacion": 0.1199,
+    "energia_solar_amen": -0.112
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.47933,
+     -22.77185
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CENTRAL SOLAR CHAKA I\u00a0[98]",
+    "NOMBRE": "CENTRAL SOLAR CHAKA I",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.93096,
+     -26.30683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CENTRAL SOLAR CHAKA II\u00a0[99]",
+    "NOMBRE": "CENTRAL SOLAR CHAKA II",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.93449,
+     -26.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL DIVISADERO\u00a0[100]",
+    "NOMBRE": "EL DIVISADERO",
+    "energia_solar_dismin_generacion": 0.2476,
+    "energia_solar_amen": -0.231
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.90741,
+     -29.1299
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "DO\u00d1A CARMEN SOLAR\u00a0[101]",
+    "NOMBRE": "DO\u00d1A CARMEN SOLAR",
+    "energia_solar_dismin_generacion": 3.6722,
+    "energia_solar_amen": -3.43
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.24676,
+     -32.48263
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL MANZANO\u00a0[102]",
+    "NOMBRE": "EL MANZANO",
+    "energia_solar_dismin_generacion": 3.5281,
+    "energia_solar_amen": -3.296
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4008,
+     -34.2083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL OLIVILLO\u00a0[103]",
+    "NOMBRE": "EL OLIVILLO",
+    "energia_solar_dismin_generacion": 3.6891,
+    "energia_solar_amen": -3.446
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.38938,
+     -33.29182
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL PEL\u00cdCANO\u00a0[104]",
+    "NOMBRE": "EL PEL\u00cdCANO",
+    "energia_solar_dismin_generacion": 0.2558,
+    "energia_solar_amen": -0.239
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.87893,
+     -29.1406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PIQUERO\u00a0[105]",
+    "NOMBRE": "PIQUERO",
+    "energia_solar_dismin_generacion": 3.6891,
+    "energia_solar_amen": -3.446
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.44829,
+     -33.29597
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PROYECTO GUANACO SOLAR\u00a0[106]",
+    "NOMBRE": "PROYECTO GUANACO SOLAR",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.06339,
+     -27.52895
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "HUATACONDO\u00a0[107]",
+    "NOMBRE": "HUATACONDO",
+    "energia_solar_dismin_generacion": 0.0798,
+    "energia_solar_amen": -0.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.50034,
+     -21.13859
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PFV LAS PALOMAS\u00a0[108]",
+    "NOMBRE": "PFV LAS PALOMAS",
+    "energia_solar_dismin_generacion": 3.1723,
+    "energia_solar_amen": -2.963
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.20286,
+     -36.76786
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LASCAR ETAPA I\u00a0[109]",
+    "NOMBRE": "LASCAR ETAPA I",
+    "energia_solar_dismin_generacion": 0.21,
+    "energia_solar_amen": -0.196
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.56565,
+     -22.57482
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "LASCAR ETAPA II\u00a0[110]",
+    "NOMBRE": "LASCAR ETAPA II",
+    "energia_solar_dismin_generacion": 0.21,
+    "energia_solar_amen": -0.196
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.57983,
+     -22.57062
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR LOMA LOS COLORADOS\u00a0[111]",
+    "NOMBRE": "SOLAR LOMA LOS COLORADOS",
+    "energia_solar_dismin_generacion": 2.8279,
+    "energia_solar_amen": -2.642
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.80452,
+     -32.95076
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "MALAQUITA SOLAR 2\u00a0[112]",
+    "NOMBRE": "MALAQUITA SOLAR 2",
+    "energia_solar_dismin_generacion": -0.6251,
+    "energia_solar_amen": 0.584
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.17923,
+     -27.84189
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PLANTA SOLAR FOTOVOLTAICA MALGARIDA\u00a0[113]",
+    "NOMBRE": "PLANTA SOLAR FOTOVOLTAICA MALGARIDA",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.9604,
+     -26.26964
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PILAR LOS AMARILLOS\u00a0[114]",
+    "NOMBRE": "PILAR LOS AMARILLOS",
+    "energia_solar_dismin_generacion": -0.1669,
+    "energia_solar_amen": 0.156
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.75087,
+     -26.31379
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PULAR\u00a0[115]",
+    "NOMBRE": "PULAR",
+    "energia_solar_dismin_generacion": 0.21,
+    "energia_solar_amen": -0.196
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.77104,
+     -22.55376
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CERRO DOMINADOR FV\u00a0[116]",
+    "NOMBRE": "CERRO DOMINADOR FV",
+    "energia_solar_dismin_generacion": 0.1534,
+    "energia_solar_amen": -0.143
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.45983,
+     -22.79292
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "QUEULE\u00a0[117]",
+    "NOMBRE": "QUEULE",
+    "energia_solar_dismin_generacion": 3.5281,
+    "energia_solar_amen": -3.296
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.39838,
+     -34.22234
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PARQUE SOLAR FOTOVOLTAICO NUEVO QUILLAGUA \u00a0[118]",
+    "NOMBRE": "PARQUE SOLAR FOTOVOLTAICO NUEVO QUILLAGUA I",
+    "energia_solar_dismin_generacion": 0.0798,
+    "energia_solar_amen": -0.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.4986,
+     -21.66152
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PARQUE SOLAR FOTOVOLTAICO NUEVO QUILLAGUA \u00a0[119]",
+    "NOMBRE": "PARQUE SOLAR FOTOVOLTAICO NUEVO QUILLAGUA II",
+    "energia_solar_dismin_generacion": 0.0798,
+    "energia_solar_amen": -0.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.49835,
+     -21.66175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PARQUE SOLAR FOTOVOLTAICO NUEVO QUILLAGUA \u00a0[120]",
+    "NOMBRE": "PARQUE SOLAR FOTOVOLTAICO NUEVO QUILLAGUA III",
+    "energia_solar_dismin_generacion": 0.0798,
+    "energia_solar_amen": -0.075
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.49867,
+     -21.66181
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "USYA\u00a0[121]",
+    "NOMBRE": "USYA",
+    "energia_solar_dismin_generacion": 0.21,
+    "energia_solar_amen": -0.196
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.8504,
+     -22.48155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "VALLE SOLAR ESTE 2\u00a0[122]",
+    "NOMBRE": "VALLE SOLAR ESTE 2",
+    "energia_solar_dismin_generacion": -0.0991,
+    "energia_solar_amen": 0.093
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.38753,
+     -27.35013
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "VALLE SOLAR OESTE 2\u00a0[123]",
+    "NOMBRE": "VALLE SOLAR OESTE 2",
+    "energia_solar_dismin_generacion": -0.0991,
+    "energia_solar_amen": 0.093
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.39382,
+     -27.34883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PROYECTO PARQUE FOTOVOLTAICO VALLESOLAR\u00a0[124]",
+    "NOMBRE": "PROYECTO PARQUE FOTOVOLTAICO VALLESOLAR",
+    "energia_solar_dismin_generacion": -0.0991,
+    "energia_solar_amen": 0.093
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.69265,
+     -28.20305
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "VALLELAND SOLAR\u00a0[125]",
+    "NOMBRE": "VALLELAND SOLAR",
+    "energia_solar_dismin_generacion": -0.0991,
+    "energia_solar_amen": 0.093
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.67038,
+     -28.14811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "EL CHINCOL\u00a0[126]",
+    "NOMBRE": "EL CHINCOL",
+    "energia_solar_dismin_generacion": 3.1723,
+    "energia_solar_amen": -2.963
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8622,
+     -36.26683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PARQUE SOLAR ABASOL\u00a0[127]",
+    "NOMBRE": "PARQUE SOLAR ABASOL",
+    "energia_solar_dismin_generacion": 0.2476,
+    "energia_solar_amen": -0.231
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.80648,
+     -28.61097
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "SOLAR ALTOS DEL PAICO\u00a0[128]",
+    "NOMBRE": "SOLAR ALTOS DEL PAICO",
+    "energia_solar_dismin_generacion": 3.4639,
+    "energia_solar_amen": -3.236
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.05324,
+     -33.6525
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PLANTA SOLAR MARIN\u00a0[129]",
+    "NOMBRE": "PLANTA SOLAR MARIN",
+    "energia_solar_dismin_generacion": 3.6891,
+    "energia_solar_amen": -3.446
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.73377,
+     -32.78599
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "PARQUE FOTOVOLTAICO SAN PEDRO I\u00a0[130]",
+    "NOMBRE": "PARQUE FOTOVOLTAICO SAN PEDRO I",
+    "energia_solar_dismin_generacion": 0.21,
+    "energia_solar_amen": -0.196
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.77056,
+     -22.55309
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "CAT\u00c1N SOLAR\u00a0[131]",
+    "NOMBRE": "CAT\u00c1N SOLAR",
+    "energia_solar_dismin_generacion": 3.6891,
+    "energia_solar_amen": -3.446
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.60169,
+     -32.72821
+    ]
+   }
+  }
+ ]
+}

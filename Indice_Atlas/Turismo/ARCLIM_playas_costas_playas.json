@@ -1,0 +1,1271 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "1",
+    "REGION": "1",
+    "NOM_COMUNA": "IQUIQUE",
+    "NOM_Playa": "Iquique (playa Cavancha) ",
+    "amen_Playa_Futuro": 0.7803,
+    "expo_Playa_Presente": 0.0378,
+    "sensi_Playa_Presente": 0.4756,
+    "riesgo_Playa_Futuro": 0.014,
+    "ind_amenCotaInundacion_Playa": 2.7317,
+    "ind_Area_Playa": 45930.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.2846,
+    "ind_sensiEstructural_Playa": 0.6667,
+    "ind_TasaCambio_Playa": -0.74,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.14963,
+     -20.22687
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "2",
+    "REGION": "1",
+    "NOM_COMUNA": "IQUIQUE",
+    "NOM_Playa": "Iquique (playa Brava) ",
+    "amen_Playa_Futuro": 0.7803,
+    "expo_Playa_Presente": 0.0882,
+    "sensi_Playa_Presente": 0.4186,
+    "riesgo_Playa_Futuro": 0.0288,
+    "ind_amenCotaInundacion_Playa": 2.7318,
+    "ind_Area_Playa": 107140.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.0038,
+    "ind_sensiEstructural_Playa": 0.8333,
+    "ind_TasaCambio_Playa": -0.01,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.15037,
+     -20.23843
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "3",
+    "REGION": "2",
+    "NOM_COMUNA": "MEJILLONES",
+    "NOM_Playa": "Hornitos",
+    "amen_Playa_Futuro": 0.8795,
+    "expo_Playa_Presente": 0.4573,
+    "sensi_Playa_Presente": 0.9167,
+    "riesgo_Playa_Futuro": 0.3687,
+    "ind_amenCotaInundacion_Playa": 3.0789,
+    "ind_Area_Playa": 555500.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 1.0,
+    "ind_sensiEstructural_Playa": 0.8333,
+    "ind_TasaCambio_Playa": -2.6,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.29072,
+     -22.91701
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "4",
+    "REGION": "3",
+    "NOM_COMUNA": "CHA\u00d1ARAL",
+    "NOM_Playa": "Cha\u00f1aral (bah\u00eda)",
+    "amen_Playa_Futuro": 0.8187,
+    "expo_Playa_Presente": 0.5824,
+    "sensi_Playa_Presente": 0.4756,
+    "riesgo_Playa_Futuro": 0.2268,
+    "ind_amenCotaInundacion_Playa": 2.8663,
+    "ind_Area_Playa": 707421.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.7846,
+    "ind_sensiEstructural_Playa": 0.1667,
+    "ind_TasaCambio_Playa": -2.04,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.64703,
+     -26.30429
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "5",
+    "REGION": "3",
+    "NOM_COMUNA": "CALDERA",
+    "NOM_Playa": "Caldera ",
+    "amen_Playa_Futuro": 0.8097,
+    "expo_Playa_Presente": 0.3284,
+    "sensi_Playa_Presente": 0.0833,
+    "riesgo_Playa_Futuro": 0.0222,
+    "ind_amenCotaInundacion_Playa": 2.8347,
+    "ind_Area_Playa": 398912.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.0,
+    "ind_sensiEstructural_Playa": 0.1667,
+    "ind_TasaCambio_Playa": 0.18,
+    "ind_TipoDrenaje_Playa": 0.5,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.85617,
+     -27.10378
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "6",
+    "REGION": "5",
+    "NOM_COMUNA": "ISLA DE PASCUA ",
+    "NOM_Playa": "Anakena",
+    "amen_Playa_Futuro": 0.8099,
+    "expo_Playa_Presente": 0.006,
+    "sensi_Playa_Presente": 0.3481,
+    "riesgo_Playa_Futuro": 0.0017,
+    "ind_amenCotaInundacion_Playa": 2.8352,
+    "ind_Area_Playa": 7273.0,
+    "ind_Dunas_Playas": 0.5,
+    "ind_sensiErosion_Playa": 0.1962,
+    "ind_sensiEstructural_Playa": 0.5,
+    "ind_TasaCambio_Playa": -0.51,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.323,
+     -27.07394
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "7",
+    "REGION": "3",
+    "NOM_COMUNA": "HUASCO",
+    "NOM_Playa": "Bah\u00eda Huasco ",
+    "amen_Playa_Futuro": 0.81,
+    "expo_Playa_Presente": 0.174,
+    "sensi_Playa_Presente": 0.3167,
+    "riesgo_Playa_Futuro": 0.0446,
+    "ind_amenCotaInundacion_Playa": 2.8359,
+    "ind_Area_Playa": 211349.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.3,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.78,
+    "ind_TipoDrenaje_Playa": 0.5,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.17214,
+     -28.3301
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "8",
+    "REGION": "4",
+    "NOM_COMUNA": "LA SERENA",
+    "NOM_Playa": "La Serena",
+    "amen_Playa_Futuro": 0.8365,
+    "expo_Playa_Presente": 1.0,
+    "sensi_Playa_Presente": 0.2244,
+    "riesgo_Playa_Futuro": 0.1877,
+    "ind_amenCotaInundacion_Playa": 2.9284,
+    "ind_Area_Playa": 1214620.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.1154,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.3,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 1.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.32391,
+     -29.96036
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "9",
+    "REGION": "4",
+    "NOM_COMUNA": "COQUIMBO",
+    "NOM_Playa": "La Herradura",
+    "amen_Playa_Futuro": 0.8372,
+    "expo_Playa_Presente": 0.0649,
+    "sensi_Playa_Presente": 0.4199,
+    "riesgo_Playa_Futuro": 0.0228,
+    "ind_amenCotaInundacion_Playa": 2.931,
+    "ind_Area_Playa": 78800.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.1731,
+    "ind_sensiEstructural_Playa": 0.6667,
+    "ind_TasaCambio_Playa": -0.45,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.35557,
+     -29.98329
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "10",
+    "REGION": "4",
+    "NOM_COMUNA": "COQUIMBO",
+    "NOM_Playa": "Guanaqueros",
+    "amen_Playa_Futuro": 0.8427,
+    "expo_Playa_Presente": 0.315,
+    "sensi_Playa_Presente": 0.2244,
+    "riesgo_Playa_Futuro": 0.0596,
+    "ind_amenCotaInundacion_Playa": 2.9502,
+    "ind_Area_Playa": 382596.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.1154,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.3,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.40399,
+     -30.18989
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "11",
+    "REGION": "4",
+    "NOM_COMUNA": "COQUIMBO",
+    "NOM_Playa": "Playa Grande, Tongoy",
+    "amen_Playa_Futuro": 0.8451,
+    "expo_Playa_Presente": 0.8919,
+    "sensi_Playa_Presente": 0.5205,
+    "riesgo_Playa_Futuro": 0.3923,
+    "ind_amenCotaInundacion_Playa": 2.9585,
+    "ind_Area_Playa": 1083331.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.7077,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -1.84,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.52668,
+     -30.2934
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "12",
+    "REGION": "4",
+    "NOM_COMUNA": "LOS VILOS",
+    "NOM_Playa": "Playa Amarilla (Ba. Conchal\u00ed), Los Vilos",
+    "amen_Playa_Futuro": 0.8845,
+    "expo_Playa_Presente": 0.109,
+    "sensi_Playa_Presente": 0.2821,
+    "riesgo_Playa_Futuro": 0.0272,
+    "ind_amenCotaInundacion_Playa": 3.0965,
+    "ind_Area_Playa": 132395.0,
+    "ind_Dunas_Playas": 0.5,
+    "ind_sensiErosion_Playa": 0.2308,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.6,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.50123,
+     -31.86965
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "13",
+    "REGION": "4",
+    "NOM_COMUNA": "LOS VILOS",
+    "NOM_Playa": "Playa Pichidangui",
+    "amen_Playa_Futuro": 0.8871,
+    "expo_Playa_Presente": 0.1649,
+    "sensi_Playa_Presente": 0.2571,
+    "riesgo_Playa_Futuro": 0.0376,
+    "ind_amenCotaInundacion_Playa": 3.1056,
+    "ind_Area_Playa": 200252.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.1808,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.47,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 1.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.51307,
+     -32.11515
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "14",
+    "REGION": "5",
+    "NOM_COMUNA": "LA LIGUA",
+    "NOM_Playa": "Los Molles",
+    "amen_Playa_Futuro": 0.8888,
+    "expo_Playa_Presente": 0.0348,
+    "sensi_Playa_Presente": 0.2128,
+    "riesgo_Playa_Futuro": 0.0066,
+    "ind_amenCotaInundacion_Playa": 3.1115,
+    "ind_Area_Playa": 42245.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.0923,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.24,
+    "ind_TipoDrenaje_Playa": 0.5,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5081,
+     -32.23681
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "15",
+    "REGION": "5",
+    "NOM_COMUNA": "LA LIGUA",
+    "NOM_Playa": "Pichicuy",
+    "amen_Playa_Futuro": 0.8896,
+    "expo_Playa_Presente": 0.1063,
+    "sensi_Playa_Presente": 0.2122,
+    "riesgo_Playa_Futuro": 0.0201,
+    "ind_amenCotaInundacion_Playa": 3.1143,
+    "ind_Area_Playa": 129128.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.2577,
+    "ind_sensiEstructural_Playa": 0.1667,
+    "ind_TasaCambio_Playa": -0.67,
+    "ind_TipoDrenaje_Playa": 0.5,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.45189,
+     -32.34356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "16",
+    "REGION": "5",
+    "NOM_COMUNA": "LA LIGUA",
+    "NOM_Playa": "Bah\u00eda La Ligua",
+    "amen_Playa_Futuro": 0.8897,
+    "expo_Playa_Presente": 0.399,
+    "sensi_Playa_Presente": 0.5154,
+    "riesgo_Playa_Futuro": 0.1829,
+    "ind_amenCotaInundacion_Playa": 3.1147,
+    "ind_Area_Playa": 484604.0,
+    "ind_Dunas_Playas": 0.5,
+    "ind_sensiErosion_Playa": 0.5308,
+    "ind_sensiEstructural_Playa": 0.5,
+    "ind_TasaCambio_Playa": -1.38,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 1.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.43467,
+     -32.36246
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "17",
+    "REGION": "5",
+    "NOM_COMUNA": "PAPUDO",
+    "NOM_Playa": "Bah\u00eda de Papudo",
+    "amen_Playa_Futuro": 0.891,
+    "expo_Playa_Presente": 0.0702,
+    "sensi_Playa_Presente": 0.3981,
+    "riesgo_Playa_Futuro": 0.0249,
+    "ind_amenCotaInundacion_Playa": 3.1192,
+    "ind_Area_Playa": 85269.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.2962,
+    "ind_sensiEstructural_Playa": 0.5,
+    "ind_TasaCambio_Playa": -0.77,
+    "ind_TipoDrenaje_Playa": 0.5,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.43392,
+     -32.49264
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "18",
+    "REGION": "5",
+    "NOM_COMUNA": "PUCHUNCAV\u00cd",
+    "NOM_Playa": "Maitencillo",
+    "amen_Playa_Futuro": 0.8917,
+    "expo_Playa_Presente": 0.0029,
+    "sensi_Playa_Presente": 0.4429,
+    "riesgo_Playa_Futuro": 0.0011,
+    "ind_amenCotaInundacion_Playa": 3.1217,
+    "ind_Area_Playa": 3483.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.2192,
+    "ind_sensiEstructural_Playa": 0.6667,
+    "ind_TasaCambio_Playa": -0.57,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.44749,
+     -32.58576
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "19",
+    "REGION": "5",
+    "NOM_COMUNA": "QUINTERO",
+    "NOM_Playa": "Quintero",
+    "amen_Playa_Futuro": 0.8934,
+    "expo_Playa_Presente": 0.1774,
+    "sensi_Playa_Presente": 0.3269,
+    "riesgo_Playa_Futuro": 0.0518,
+    "ind_amenCotaInundacion_Playa": 3.1279,
+    "ind_Area_Playa": 215458.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.1538,
+    "ind_sensiEstructural_Playa": 0.5,
+    "ind_TasaCambio_Playa": -0.4,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.49684,
+     -32.77724
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "20",
+    "REGION": "5",
+    "NOM_COMUNA": "CONC\u00d3N",
+    "NOM_Playa": "Bah\u00eda de Conc\u00f3n",
+    "amen_Playa_Futuro": 0.8944,
+    "expo_Playa_Presente": 0.4154,
+    "sensi_Playa_Presente": 0.3109,
+    "riesgo_Playa_Futuro": 0.1155,
+    "ind_amenCotaInundacion_Playa": 3.1313,
+    "ind_Area_Playa": 504547.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.2885,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.75,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 1.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.51313,
+     -32.86109
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "21",
+    "REGION": "5",
+    "NOM_COMUNA": "VI\u00d1A DEL MAR",
+    "NOM_Playa": "Cochoa",
+    "amen_Playa_Futuro": 0.8955,
+    "expo_Playa_Presente": 0.0026,
+    "sensi_Playa_Presente": 0.3333,
+    "riesgo_Playa_Futuro": 0.0008,
+    "ind_amenCotaInundacion_Playa": 3.1351,
+    "ind_Area_Playa": 3214.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.0,
+    "ind_sensiEstructural_Playa": 0.6667,
+    "ind_TasaCambio_Playa": 0.04,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54756,
+     -32.95576
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "22",
+    "REGION": "5",
+    "NOM_COMUNA": "VI\u00d1A DEL MAR",
+    "NOM_Playa": "El Encanto",
+    "amen_Playa_Futuro": 0.8955,
+    "expo_Playa_Presente": 0.0045,
+    "sensi_Playa_Presente": 0.3333,
+    "riesgo_Playa_Futuro": 0.0014,
+    "ind_amenCotaInundacion_Playa": 3.135,
+    "ind_Area_Playa": 5494.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.0,
+    "ind_sensiEstructural_Playa": 0.6667,
+    "ind_TasaCambio_Playa": 0.21,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54772,
+     -32.96076
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "23",
+    "REGION": "5",
+    "NOM_COMUNA": "VI\u00d1A DEL MAR",
+    "NOM_Playa": "Re\u00f1aca",
+    "amen_Playa_Futuro": 0.8954,
+    "expo_Playa_Presente": 0.058,
+    "sensi_Playa_Presente": 0.3096,
+    "riesgo_Playa_Futuro": 0.0161,
+    "ind_amenCotaInundacion_Playa": 3.1348,
+    "ind_Area_Playa": 70488.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.1192,
+    "ind_sensiEstructural_Playa": 0.5,
+    "ind_TasaCambio_Playa": -0.31,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54619,
+     -32.96737
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "24",
+    "REGION": "5",
+    "NOM_COMUNA": "VI\u00d1A DEL MAR",
+    "NOM_Playa": "Las Ca\u00f1itas",
+    "amen_Playa_Futuro": 0.8954,
+    "expo_Playa_Presente": 0.0035,
+    "sensi_Playa_Presente": 0.4167,
+    "riesgo_Playa_Futuro": 0.0013,
+    "ind_amenCotaInundacion_Playa": 3.1346,
+    "ind_Area_Playa": 4193.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.0,
+    "ind_sensiEstructural_Playa": 0.8333,
+    "ind_TasaCambio_Playa": 0.07,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54569,
+     -32.97847
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "25",
+    "REGION": "5",
+    "NOM_COMUNA": "VI\u00d1A DEL MAR",
+    "NOM_Playa": "Las Salinas",
+    "amen_Playa_Futuro": 0.8953,
+    "expo_Playa_Presente": 0.006,
+    "sensi_Playa_Presente": 0.3987,
+    "riesgo_Playa_Futuro": 0.0022,
+    "ind_amenCotaInundacion_Playa": 3.1343,
+    "ind_Area_Playa": 7324.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.1308,
+    "ind_sensiEstructural_Playa": 0.6667,
+    "ind_TasaCambio_Playa": -0.34,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54682,
+     -32.98939
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "26",
+    "REGION": "5",
+    "NOM_COMUNA": "VI\u00d1A DEL MAR",
+    "NOM_Playa": "Los Marineros",
+    "amen_Playa_Futuro": 0.8952,
+    "expo_Playa_Presente": 0.1036,
+    "sensi_Playa_Presente": 0.1763,
+    "riesgo_Playa_Futuro": 0.0164,
+    "ind_amenCotaInundacion_Playa": 3.1341,
+    "ind_Area_Playa": 125889.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.0192,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.05,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5496,
+     -33.00079
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "27",
+    "REGION": "5",
+    "NOM_COMUNA": "VI\u00d1A DEL MAR",
+    "NOM_Playa": "Miramar",
+    "amen_Playa_Futuro": 0.895,
+    "expo_Playa_Presente": 0.0012,
+    "sensi_Playa_Presente": 0.4878,
+    "riesgo_Playa_Futuro": 0.0005,
+    "ind_amenCotaInundacion_Playa": 3.1334,
+    "ind_Area_Playa": 1517.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.1423,
+    "ind_sensiEstructural_Playa": 0.8333,
+    "ind_TasaCambio_Playa": -0.37,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.56612,
+     -33.02084
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "28",
+    "REGION": "5",
+    "NOM_COMUNA": "VI\u00d1A DEL MAR",
+    "NOM_Playa": "Caleta Abarca",
+    "amen_Playa_Futuro": 0.895,
+    "expo_Playa_Presente": 0.0095,
+    "sensi_Playa_Presente": 0.4218,
+    "riesgo_Playa_Futuro": 0.0036,
+    "ind_amenCotaInundacion_Playa": 3.1334,
+    "ind_Area_Playa": 11570.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.1769,
+    "ind_sensiEstructural_Playa": 0.6667,
+    "ind_TasaCambio_Playa": -0.46,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.56927,
+     -33.0235
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "29",
+    "REGION": "5",
+    "NOM_COMUNA": "VALPARA\u00cdSO",
+    "NOM_Playa": "Caleta Portales",
+    "amen_Playa_Futuro": 0.8949,
+    "expo_Playa_Presente": 0.0096,
+    "sensi_Playa_Presente": 0.3506,
+    "riesgo_Playa_Futuro": 0.003,
+    "ind_amenCotaInundacion_Playa": 3.1331,
+    "ind_Area_Playa": 11718.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.0346,
+    "ind_sensiEstructural_Playa": 0.6667,
+    "ind_TasaCambio_Playa": -0.09,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.59212,
+     -33.03228
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "30",
+    "REGION": "5",
+    "NOM_COMUNA": "VALPARA\u00cdSO",
+    "NOM_Playa": "Las Torpederas",
+    "amen_Playa_Futuro": 0.895,
+    "expo_Playa_Presente": 0.0028,
+    "sensi_Playa_Presente": 0.4929,
+    "riesgo_Playa_Futuro": 0.0013,
+    "ind_amenCotaInundacion_Playa": 3.1334,
+    "ind_Area_Playa": 3460.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.3192,
+    "ind_sensiEstructural_Playa": 0.6667,
+    "ind_TasaCambio_Playa": -0.83,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.64422,
+     -33.02216
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "31",
+    "REGION": "5",
+    "NOM_COMUNA": "CASA BLANCA",
+    "NOM_Playa": "Tunqu\u00e9n",
+    "amen_Playa_Futuro": 0.8927,
+    "expo_Playa_Presente": 0.0587,
+    "sensi_Playa_Presente": 0.2744,
+    "riesgo_Playa_Futuro": 0.0144,
+    "ind_amenCotaInundacion_Playa": 3.1252,
+    "ind_Area_Playa": 71252.0,
+    "ind_Dunas_Playas": 0.5,
+    "ind_sensiErosion_Playa": 0.2154,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.56,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.65831,
+     -33.28551
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "32",
+    "REGION": "5",
+    "NOM_COMUNA": "ALGARROBO",
+    "NOM_Playa": "Algarrobo",
+    "amen_Playa_Futuro": 0.8919,
+    "expo_Playa_Presente": 0.1261,
+    "sensi_Playa_Presente": 0.5718,
+    "riesgo_Playa_Futuro": 0.0643,
+    "ind_amenCotaInundacion_Playa": 3.1223,
+    "ind_Area_Playa": 153137.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.9769,
+    "ind_sensiEstructural_Playa": 0.1667,
+    "ind_TasaCambio_Playa": -2.54,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.65708,
+     -33.35527
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "33",
+    "REGION": "5",
+    "NOM_COMUNA": "EL QUISCO",
+    "NOM_Playa": "El Quisco",
+    "amen_Playa_Futuro": 0.8912,
+    "expo_Playa_Presente": 0.0539,
+    "sensi_Playa_Presente": 0.3192,
+    "riesgo_Playa_Futuro": 0.0153,
+    "ind_amenCotaInundacion_Playa": 3.1202,
+    "ind_Area_Playa": 65410.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.1385,
+    "ind_sensiEstructural_Playa": 0.5,
+    "ind_TasaCambio_Playa": -0.36,
+    "ind_TipoDrenaje_Playa": 0.5,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.69396,
+     -33.39121
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "34",
+    "REGION": "5",
+    "NOM_COMUNA": "EL TABO",
+    "NOM_Playa": "Las Cruces",
+    "amen_Playa_Futuro": 0.8904,
+    "expo_Playa_Presente": 0.0117,
+    "sensi_Playa_Presente": 0.2917,
+    "riesgo_Playa_Futuro": 0.003,
+    "ind_amenCotaInundacion_Playa": 3.1172,
+    "ind_Area_Playa": 14161.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.25,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.65,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.64984,
+     -33.47274
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "35",
+    "REGION": "5",
+    "NOM_COMUNA": "CARTAGENA",
+    "NOM_Playa": "Cartagena y El Tabo",
+    "amen_Playa_Futuro": 0.89,
+    "expo_Playa_Presente": 0.1592,
+    "sensi_Playa_Presente": 0.284,
+    "riesgo_Playa_Futuro": 0.0402,
+    "ind_amenCotaInundacion_Playa": 3.116,
+    "ind_Area_Playa": 193372.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.2346,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.61,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 1.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.60743,
+     -33.52094
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "36",
+    "REGION": "5",
+    "NOM_COMUNA": "SANTO DOMINGO",
+    "NOM_Playa": "Santo Domingo a El Yali",
+    "amen_Playa_Futuro": 0.8919,
+    "expo_Playa_Presente": 0.4229,
+    "sensi_Playa_Presente": 0.416,
+    "riesgo_Playa_Futuro": 0.1569,
+    "ind_amenCotaInundacion_Playa": 3.1225,
+    "ind_Area_Playa": 513612.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.6654,
+    "ind_sensiEstructural_Playa": 0.1667,
+    "ind_TasaCambio_Playa": -1.73,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.64952,
+     -33.69061
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "37",
+    "REGION": "6",
+    "NOM_COMUNA": "PICHILEMU",
+    "NOM_Playa": "Pichilemu (Pta. de Lobos)",
+    "amen_Playa_Futuro": 0.9139,
+    "expo_Playa_Presente": 0.1902,
+    "sensi_Playa_Presente": 0.75,
+    "riesgo_Playa_Futuro": 0.1304,
+    "ind_amenCotaInundacion_Playa": 3.1996,
+    "ind_Area_Playa": 230996.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.5,
+    "ind_sensiEstructural_Playa": 1.0,
+    "ind_TasaCambio_Playa": -1.3,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 1.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.03753,
+     -34.42599
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "38",
+    "REGION": "8",
+    "NOM_COMUNA": "HUALP\u00c9N",
+    "NOM_Playa": "Bah\u00eda de San Vicente (Talcahuano - Hualpen)",
+    "amen_Playa_Futuro": 0.9756,
+    "expo_Playa_Presente": 0.11,
+    "sensi_Playa_Presente": 0.209,
+    "riesgo_Playa_Futuro": 0.0224,
+    "ind_amenCotaInundacion_Playa": 3.4155,
+    "ind_Area_Playa": 133622.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.0846,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -0.22,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.13945,
+     -36.75621
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "39",
+    "REGION": "8",
+    "NOM_COMUNA": "CORONEL",
+    "NOM_Playa": "Escuadr\u00f3n",
+    "amen_Playa_Futuro": 0.981,
+    "expo_Playa_Presente": 0.2292,
+    "sensi_Playa_Presente": 0.3949,
+    "riesgo_Playa_Futuro": 0.0888,
+    "ind_amenCotaInundacion_Playa": 3.4344,
+    "ind_Area_Playa": 278347.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.1231,
+    "ind_sensiEstructural_Playa": 0.6667,
+    "ind_TasaCambio_Playa": -0.32,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.16528,
+     -36.95109
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "40",
+    "REGION": "8",
+    "NOM_COMUNA": "CORONEL",
+    "NOM_Playa": "Bah\u00eda de Coronel, Playa Blanca",
+    "amen_Playa_Futuro": 0.9826,
+    "expo_Playa_Presente": 0.0759,
+    "sensi_Playa_Presente": 0.5109,
+    "riesgo_Playa_Futuro": 0.0381,
+    "ind_amenCotaInundacion_Playa": 3.4398,
+    "ind_Area_Playa": 92248.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.1885,
+    "ind_sensiEstructural_Playa": 0.8333,
+    "ind_TasaCambio_Playa": -0.49,
+    "ind_TipoDrenaje_Playa": 1.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.15056,
+     -37.0276
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "41",
+    "REGION": "8",
+    "NOM_COMUNA": "ARAUCO",
+    "NOM_Playa": "Tubul",
+    "amen_Playa_Futuro": 0.9847,
+    "expo_Playa_Presente": 0.034,
+    "sensi_Playa_Presente": 0.1667,
+    "riesgo_Playa_Futuro": 0.0056,
+    "ind_amenCotaInundacion_Playa": 3.4473,
+    "ind_Area_Playa": 41250.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.0,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": 0.51,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.43845,
+     -37.22769
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "42",
+    "REGION": "8",
+    "NOM_COMUNA": "ARAUCO",
+    "NOM_Playa": "Llico",
+    "amen_Playa_Futuro": 0.9844,
+    "expo_Playa_Presente": 0.0581,
+    "sensi_Playa_Presente": 0.1667,
+    "riesgo_Playa_Futuro": 0.0095,
+    "ind_amenCotaInundacion_Playa": 3.4463,
+    "ind_Area_Playa": 70510.0,
+    "ind_Dunas_Playas": 1.0,
+    "ind_sensiErosion_Playa": 0.0,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": 0.85,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.56129,
+     -37.1845
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "43",
+    "REGION": "8",
+    "NOM_COMUNA": "ARAUCO",
+    "NOM_Playa": "Arauco - Laraquete",
+    "amen_Playa_Futuro": 0.9849,
+    "expo_Playa_Presente": 0.5737,
+    "sensi_Playa_Presente": 0.3801,
+    "riesgo_Playa_Futuro": 0.2148,
+    "ind_amenCotaInundacion_Playa": 3.448,
+    "ind_Area_Playa": 696862.0,
+    "ind_Dunas_Playas": 0.5,
+    "ind_sensiErosion_Playa": 0.4269,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -1.11,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.30954,
+     -37.23641
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "44",
+    "REGION": "8",
+    "NOM_COMUNA": "LEBU",
+    "NOM_Playa": "Bah\u00eda de Lebu",
+    "amen_Playa_Futuro": 0.9934,
+    "expo_Playa_Presente": 0.2223,
+    "sensi_Playa_Presente": 0.2346,
+    "riesgo_Playa_Futuro": 0.0518,
+    "ind_amenCotaInundacion_Playa": 3.4779,
+    "ind_Area_Playa": 270026.0,
+    "ind_Dunas_Playas": 0.0,
+    "ind_sensiErosion_Playa": 0.4692,
+    "ind_sensiEstructural_Playa": 0.0,
+    "ind_TasaCambio_Playa": -1.22,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.64774,
+     -37.59049
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "45",
+    "REGION": "8",
+    "NOM_COMUNA": "TIR\u00daA",
+    "NOM_Playa": "Lebu - Tir\u00faa",
+    "amen_Playa_Futuro": 1.0,
+    "expo_Playa_Presente": 0.2875,
+    "sensi_Playa_Presente": 0.434,
+    "riesgo_Playa_Futuro": 0.1248,
+    "ind_amenCotaInundacion_Playa": 3.5009,
+    "ind_Area_Playa": 349227.0,
+    "ind_Dunas_Playas": 0.5,
+    "ind_sensiErosion_Playa": 0.5346,
+    "ind_sensiEstructural_Playa": 0.3333,
+    "ind_TasaCambio_Playa": -1.39,
+    "ind_TipoDrenaje_Playa": 0.0,
+    "ind_TipoRompiente_Playa": 0.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.54069,
+     -37.87598
+    ]
+   }
+  }
+ ]
+}

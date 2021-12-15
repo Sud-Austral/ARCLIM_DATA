@@ -1,0 +1,1001 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "1",
+    "amen_TUR_03_CAMBIO": 0.014,
+    "expo_TUR_03_FUTURO": 0.9873,
+    "expo_TUR_03_PRESENTE": 0.9148,
+    "riesgo_TUR_03_CAMBIO": 0.0048,
+    "sensi_TUR_03_PRESENTE": 0.3775,
+    "NOM_Playa": "Iquique (playa Cavancha) ",
+    "ind_opt01_CADENA": 0.9148,
+    "ind_opt02_CADENA": 0.1132,
+    "ind_opt03_CADENA": 0.9873
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.14963,
+     -20.22687
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "2",
+    "amen_TUR_03_CAMBIO": 0.0288,
+    "expo_TUR_03_FUTURO": 0.9873,
+    "expo_TUR_03_PRESENTE": 0.9148,
+    "riesgo_TUR_03_CAMBIO": 0.0099,
+    "sensi_TUR_03_PRESENTE": 0.3775,
+    "NOM_Playa": "Iquique (playa Brava) ",
+    "ind_opt01_CADENA": 0.9148,
+    "ind_opt02_CADENA": 0.1132,
+    "ind_opt03_CADENA": 0.9873
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.15037,
+     -20.23843
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "3",
+    "amen_TUR_03_CAMBIO": 0.3687,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Hornitos",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.29072,
+     -22.91701
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "4",
+    "amen_TUR_03_CAMBIO": 0.2268,
+    "expo_TUR_03_FUTURO": 0.2019,
+    "expo_TUR_03_PRESENTE": 0.1871,
+    "riesgo_TUR_03_CAMBIO": 0.0374,
+    "sensi_TUR_03_PRESENTE": 0.8822,
+    "NOM_Playa": "Cha\u00f1aral (bah\u00eda)",
+    "ind_opt01_CADENA": 0.1871,
+    "ind_opt02_CADENA": 0.839,
+    "ind_opt03_CADENA": 0.2019
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.64703,
+     -26.30429
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "5",
+    "amen_TUR_03_CAMBIO": 0.0222,
+    "expo_TUR_03_FUTURO": 0.2019,
+    "expo_TUR_03_PRESENTE": 0.1871,
+    "riesgo_TUR_03_CAMBIO": 0.0034,
+    "sensi_TUR_03_PRESENTE": 0.815,
+    "NOM_Playa": "Caldera ",
+    "ind_opt01_CADENA": 0.1871,
+    "ind_opt02_CADENA": 0.839,
+    "ind_opt03_CADENA": 0.2019
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.85617,
+     -27.10378
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "6",
+    "amen_TUR_03_CAMBIO": 0.0017,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Anakena",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.323,
+     -27.07394
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "7",
+    "amen_TUR_03_CAMBIO": 0.0446,
+    "expo_TUR_03_FUTURO": 0.0546,
+    "expo_TUR_03_PRESENTE": 0.0506,
+    "riesgo_TUR_03_CAMBIO": 0.0021,
+    "sensi_TUR_03_PRESENTE": 0.9163,
+    "NOM_Playa": "Bah\u00eda Huasco ",
+    "ind_opt01_CADENA": 0.0506,
+    "ind_opt02_CADENA": 0.8997,
+    "ind_opt03_CADENA": 0.0546
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.17214,
+     -28.3301
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "8",
+    "amen_TUR_03_CAMBIO": 0.1877,
+    "expo_TUR_03_FUTURO": 0.7919,
+    "expo_TUR_03_PRESENTE": 0.7337,
+    "riesgo_TUR_03_CAMBIO": 0.0515,
+    "sensi_TUR_03_PRESENTE": 0.3742,
+    "NOM_Playa": "La Serena",
+    "ind_opt01_CADENA": 0.7337,
+    "ind_opt02_CADENA": 0.2111,
+    "ind_opt03_CADENA": 0.7919
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.32391,
+     -29.96036
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "9",
+    "amen_TUR_03_CAMBIO": 0.0228,
+    "expo_TUR_03_FUTURO": 0.3394,
+    "expo_TUR_03_PRESENTE": 0.3144,
+    "riesgo_TUR_03_CAMBIO": 0.0051,
+    "sensi_TUR_03_PRESENTE": 0.7153,
+    "NOM_Playa": "La Herradura",
+    "ind_opt01_CADENA": 0.3144,
+    "ind_opt02_CADENA": 0.6619,
+    "ind_opt03_CADENA": 0.3394
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.35557,
+     -29.98329
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "10",
+    "amen_TUR_03_CAMBIO": 0.0596,
+    "expo_TUR_03_FUTURO": 0.3394,
+    "expo_TUR_03_PRESENTE": 0.3144,
+    "riesgo_TUR_03_CAMBIO": 0.0134,
+    "sensi_TUR_03_PRESENTE": 0.7153,
+    "NOM_Playa": "Guanaqueros",
+    "ind_opt01_CADENA": 0.3144,
+    "ind_opt02_CADENA": 0.6619,
+    "ind_opt03_CADENA": 0.3394
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.40399,
+     -30.18989
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "11",
+    "amen_TUR_03_CAMBIO": 0.3923,
+    "expo_TUR_03_FUTURO": 0.3394,
+    "expo_TUR_03_PRESENTE": 0.3144,
+    "riesgo_TUR_03_CAMBIO": 0.0882,
+    "sensi_TUR_03_PRESENTE": 0.7153,
+    "NOM_Playa": "Playa Grande, Tongoy",
+    "ind_opt01_CADENA": 0.3144,
+    "ind_opt02_CADENA": 0.6619,
+    "ind_opt03_CADENA": 0.3394
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.52668,
+     -30.2934
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "12",
+    "amen_TUR_03_CAMBIO": 0.0272,
+    "expo_TUR_03_FUTURO": 0.2753,
+    "expo_TUR_03_PRESENTE": 0.255,
+    "riesgo_TUR_03_CAMBIO": 0.0053,
+    "sensi_TUR_03_PRESENTE": 0.7639,
+    "NOM_Playa": "Playa Amarilla (Ba. Conchal\u00ed), Los Vilos",
+    "ind_opt01_CADENA": 0.255,
+    "ind_opt02_CADENA": 0.7518,
+    "ind_opt03_CADENA": 0.2753
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.50123,
+     -31.86965
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "13",
+    "amen_TUR_03_CAMBIO": 0.0376,
+    "expo_TUR_03_FUTURO": 0.2753,
+    "expo_TUR_03_PRESENTE": 0.255,
+    "riesgo_TUR_03_CAMBIO": 0.0073,
+    "sensi_TUR_03_PRESENTE": 0.7639,
+    "NOM_Playa": "Playa Pichidangui",
+    "ind_opt01_CADENA": 0.255,
+    "ind_opt02_CADENA": 0.7518,
+    "ind_opt03_CADENA": 0.2753
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.51307,
+     -32.11515
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "14",
+    "amen_TUR_03_CAMBIO": 0.0066,
+    "expo_TUR_03_FUTURO": 0.191,
+    "expo_TUR_03_PRESENTE": 0.177,
+    "riesgo_TUR_03_CAMBIO": 0.001,
+    "sensi_TUR_03_PRESENTE": 0.8713,
+    "NOM_Playa": "Los Molles",
+    "ind_opt01_CADENA": 0.177,
+    "ind_opt02_CADENA": 0.8322,
+    "ind_opt03_CADENA": 0.191
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5081,
+     -32.23681
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "15",
+    "amen_TUR_03_CAMBIO": 0.0201,
+    "expo_TUR_03_FUTURO": 0.191,
+    "expo_TUR_03_PRESENTE": 0.177,
+    "riesgo_TUR_03_CAMBIO": 0.0031,
+    "sensi_TUR_03_PRESENTE": 0.8713,
+    "NOM_Playa": "Pichicuy",
+    "ind_opt01_CADENA": 0.177,
+    "ind_opt02_CADENA": 0.8322,
+    "ind_opt03_CADENA": 0.191
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.45189,
+     -32.34356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "16",
+    "amen_TUR_03_CAMBIO": 0.1829,
+    "expo_TUR_03_FUTURO": 0.191,
+    "expo_TUR_03_PRESENTE": 0.177,
+    "riesgo_TUR_03_CAMBIO": 0.0282,
+    "sensi_TUR_03_PRESENTE": 0.8713,
+    "NOM_Playa": "Bah\u00eda La Ligua",
+    "ind_opt01_CADENA": 0.177,
+    "ind_opt02_CADENA": 0.8322,
+    "ind_opt03_CADENA": 0.191
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.43467,
+     -32.36246
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "17",
+    "amen_TUR_03_CAMBIO": 0.0249,
+    "expo_TUR_03_FUTURO": 0.0877,
+    "expo_TUR_03_PRESENTE": 0.0813,
+    "riesgo_TUR_03_CAMBIO": 0.0019,
+    "sensi_TUR_03_PRESENTE": 0.9497,
+    "NOM_Playa": "Bah\u00eda de Papudo",
+    "ind_opt01_CADENA": 0.0813,
+    "ind_opt02_CADENA": 0.9441,
+    "ind_opt03_CADENA": 0.0877
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.43392,
+     -32.49264
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "18",
+    "amen_TUR_03_CAMBIO": 0.0011,
+    "expo_TUR_03_FUTURO": 0.0439,
+    "expo_TUR_03_PRESENTE": 0.0406,
+    "riesgo_TUR_03_CAMBIO": 0.0,
+    "sensi_TUR_03_PRESENTE": 0.986,
+    "NOM_Playa": "Maitencillo",
+    "ind_opt01_CADENA": 0.0406,
+    "ind_opt02_CADENA": 0.972,
+    "ind_opt03_CADENA": 0.0439
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.44749,
+     -32.58576
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "19",
+    "amen_TUR_03_CAMBIO": 0.0518,
+    "expo_TUR_03_FUTURO": 0.0439,
+    "expo_TUR_03_PRESENTE": 0.0406,
+    "riesgo_TUR_03_CAMBIO": 0.002,
+    "sensi_TUR_03_PRESENTE": 0.9674,
+    "NOM_Playa": "Quintero",
+    "ind_opt01_CADENA": 0.0406,
+    "ind_opt02_CADENA": 0.972,
+    "ind_opt03_CADENA": 0.0439
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.49684,
+     -32.77724
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "20",
+    "amen_TUR_03_CAMBIO": 0.1155,
+    "expo_TUR_03_FUTURO": 0.8065,
+    "expo_TUR_03_PRESENTE": 0.7472,
+    "riesgo_TUR_03_CAMBIO": 0.0585,
+    "sensi_TUR_03_PRESENTE": 0.6782,
+    "NOM_Playa": "Bah\u00eda de Conc\u00f3n",
+    "ind_opt01_CADENA": 0.7472,
+    "ind_opt02_CADENA": 0.3565,
+    "ind_opt03_CADENA": 0.8065
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.51313,
+     -32.86109
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "21",
+    "amen_TUR_03_CAMBIO": 0.0008,
+    "expo_TUR_03_FUTURO": 0.8065,
+    "expo_TUR_03_PRESENTE": 0.7472,
+    "riesgo_TUR_03_CAMBIO": 0.0003,
+    "sensi_TUR_03_PRESENTE": 0.5066,
+    "NOM_Playa": "Cochoa",
+    "ind_opt01_CADENA": 0.7472,
+    "ind_opt02_CADENA": 0.3565,
+    "ind_opt03_CADENA": 0.8065
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54756,
+     -32.95576
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "22",
+    "amen_TUR_03_CAMBIO": 0.0014,
+    "expo_TUR_03_FUTURO": 0.8065,
+    "expo_TUR_03_PRESENTE": 0.7472,
+    "riesgo_TUR_03_CAMBIO": 0.0005,
+    "sensi_TUR_03_PRESENTE": 0.5066,
+    "NOM_Playa": "El Encanto",
+    "ind_opt01_CADENA": 0.7472,
+    "ind_opt02_CADENA": 0.3565,
+    "ind_opt03_CADENA": 0.8065
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54772,
+     -32.96076
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "23",
+    "amen_TUR_03_CAMBIO": 0.0161,
+    "expo_TUR_03_FUTURO": 0.8065,
+    "expo_TUR_03_PRESENTE": 0.7472,
+    "riesgo_TUR_03_CAMBIO": 0.0061,
+    "sensi_TUR_03_PRESENTE": 0.5066,
+    "NOM_Playa": "Re\u00f1aca",
+    "ind_opt01_CADENA": 0.7472,
+    "ind_opt02_CADENA": 0.3565,
+    "ind_opt03_CADENA": 0.8065
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54619,
+     -32.96737
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "24",
+    "amen_TUR_03_CAMBIO": 0.0013,
+    "expo_TUR_03_FUTURO": 0.8065,
+    "expo_TUR_03_PRESENTE": 0.7472,
+    "riesgo_TUR_03_CAMBIO": 0.0005,
+    "sensi_TUR_03_PRESENTE": 0.5066,
+    "NOM_Playa": "Las Ca\u00f1itas",
+    "ind_opt01_CADENA": 0.7472,
+    "ind_opt02_CADENA": 0.3565,
+    "ind_opt03_CADENA": 0.8065
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54569,
+     -32.97847
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "25",
+    "amen_TUR_03_CAMBIO": 0.0022,
+    "expo_TUR_03_FUTURO": 0.8065,
+    "expo_TUR_03_PRESENTE": 0.7472,
+    "riesgo_TUR_03_CAMBIO": 0.0008,
+    "sensi_TUR_03_PRESENTE": 0.5066,
+    "NOM_Playa": "Las Salinas",
+    "ind_opt01_CADENA": 0.7472,
+    "ind_opt02_CADENA": 0.3565,
+    "ind_opt03_CADENA": 0.8065
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.54682,
+     -32.98939
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "26",
+    "amen_TUR_03_CAMBIO": 0.0164,
+    "expo_TUR_03_FUTURO": 0.8065,
+    "expo_TUR_03_PRESENTE": 0.7472,
+    "riesgo_TUR_03_CAMBIO": 0.0062,
+    "sensi_TUR_03_PRESENTE": 0.5066,
+    "NOM_Playa": "Los Marineros",
+    "ind_opt01_CADENA": 0.7472,
+    "ind_opt02_CADENA": 0.3565,
+    "ind_opt03_CADENA": 0.8065
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5496,
+     -33.00079
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "27",
+    "amen_TUR_03_CAMBIO": 0.0005,
+    "expo_TUR_03_FUTURO": 0.8065,
+    "expo_TUR_03_PRESENTE": 0.7472,
+    "riesgo_TUR_03_CAMBIO": 0.0002,
+    "sensi_TUR_03_PRESENTE": 0.5066,
+    "NOM_Playa": "Miramar",
+    "ind_opt01_CADENA": 0.7472,
+    "ind_opt02_CADENA": 0.3565,
+    "ind_opt03_CADENA": 0.8065
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.56612,
+     -33.02084
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "28",
+    "amen_TUR_03_CAMBIO": 0.0036,
+    "expo_TUR_03_FUTURO": 0.8065,
+    "expo_TUR_03_PRESENTE": 0.7472,
+    "riesgo_TUR_03_CAMBIO": 0.0014,
+    "sensi_TUR_03_PRESENTE": 0.5066,
+    "NOM_Playa": "Caleta Abarca",
+    "ind_opt01_CADENA": 0.7472,
+    "ind_opt02_CADENA": 0.3565,
+    "ind_opt03_CADENA": 0.8065
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.56927,
+     -33.0235
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "29",
+    "amen_TUR_03_CAMBIO": 0.003,
+    "expo_TUR_03_FUTURO": 0.4032,
+    "expo_TUR_03_PRESENTE": 0.3736,
+    "riesgo_TUR_03_CAMBIO": 0.0004,
+    "sensi_TUR_03_PRESENTE": 0.3391,
+    "NOM_Playa": "Caleta Portales",
+    "ind_opt01_CADENA": 0.3736,
+    "ind_opt02_CADENA": 0.6782,
+    "ind_opt03_CADENA": 0.4032
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.59212,
+     -33.03228
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "30",
+    "amen_TUR_03_CAMBIO": 0.0013,
+    "expo_TUR_03_FUTURO": 0.4032,
+    "expo_TUR_03_PRESENTE": 0.3736,
+    "riesgo_TUR_03_CAMBIO": 0.0002,
+    "sensi_TUR_03_PRESENTE": 0.3391,
+    "NOM_Playa": "Las Torpederas",
+    "ind_opt01_CADENA": 0.3736,
+    "ind_opt02_CADENA": 0.6782,
+    "ind_opt03_CADENA": 0.4032
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.64422,
+     -33.02216
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "31",
+    "amen_TUR_03_CAMBIO": 0.0144,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Tunqu\u00e9n",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.65831,
+     -33.28551
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "32",
+    "amen_TUR_03_CAMBIO": 0.0643,
+    "expo_TUR_03_FUTURO": 0.1097,
+    "expo_TUR_03_PRESENTE": 0.1016,
+    "riesgo_TUR_03_CAMBIO": 0.0062,
+    "sensi_TUR_03_PRESENTE": 0.9438,
+    "NOM_Playa": "Algarrobo",
+    "ind_opt01_CADENA": 0.1016,
+    "ind_opt02_CADENA": 0.9473,
+    "ind_opt03_CADENA": 0.1097
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.65708,
+     -33.35527
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "33",
+    "amen_TUR_03_CAMBIO": 0.0153,
+    "expo_TUR_03_FUTURO": 0.1371,
+    "expo_TUR_03_PRESENTE": 0.127,
+    "riesgo_TUR_03_CAMBIO": 0.0018,
+    "sensi_TUR_03_PRESENTE": 0.9484,
+    "NOM_Playa": "El Quisco",
+    "ind_opt01_CADENA": 0.127,
+    "ind_opt02_CADENA": 0.9342,
+    "ind_opt03_CADENA": 0.1371
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.69396,
+     -33.39121
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "34",
+    "amen_TUR_03_CAMBIO": 0.003,
+    "expo_TUR_03_FUTURO": 0.1097,
+    "expo_TUR_03_PRESENTE": 0.1016,
+    "riesgo_TUR_03_CAMBIO": 0.0003,
+    "sensi_TUR_03_PRESENTE": 0.9587,
+    "NOM_Playa": "Las Cruces",
+    "ind_opt01_CADENA": 0.1016,
+    "ind_opt02_CADENA": 0.9473,
+    "ind_opt03_CADENA": 0.1097
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.64984,
+     -33.47274
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "35",
+    "amen_TUR_03_CAMBIO": 0.0402,
+    "expo_TUR_03_FUTURO": 0.1371,
+    "expo_TUR_03_PRESENTE": 0.127,
+    "riesgo_TUR_03_CAMBIO": 0.0048,
+    "sensi_TUR_03_PRESENTE": 0.9372,
+    "NOM_Playa": "Cartagena y El Tabo",
+    "ind_opt01_CADENA": 0.127,
+    "ind_opt02_CADENA": 0.9342,
+    "ind_opt03_CADENA": 0.1371
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.60743,
+     -33.52094
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "36",
+    "amen_TUR_03_CAMBIO": 0.1569,
+    "expo_TUR_03_FUTURO": 0.0548,
+    "expo_TUR_03_PRESENTE": 0.0508,
+    "riesgo_TUR_03_CAMBIO": 0.0077,
+    "sensi_TUR_03_PRESENTE": 0.9719,
+    "NOM_Playa": "Santo Domingo a El Yali",
+    "ind_opt01_CADENA": 0.0508,
+    "ind_opt02_CADENA": 0.9737,
+    "ind_opt03_CADENA": 0.0548
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.64952,
+     -33.69061
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "37",
+    "amen_TUR_03_CAMBIO": 0.1304,
+    "expo_TUR_03_FUTURO": 0.4584,
+    "expo_TUR_03_PRESENTE": 0.4247,
+    "riesgo_TUR_03_CAMBIO": 0.043,
+    "sensi_TUR_03_PRESENTE": 0.7769,
+    "NOM_Playa": "Pichilemu (Pta. de Lobos)",
+    "ind_opt01_CADENA": 0.4247,
+    "ind_opt02_CADENA": 0.7926,
+    "ind_opt03_CADENA": 0.4584
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.03753,
+     -34.42599
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "38",
+    "amen_TUR_03_CAMBIO": 0.0224,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Bah\u00eda de San Vicente (Talcahuano - Hualpen)",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.13945,
+     -36.75621
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "39",
+    "amen_TUR_03_CAMBIO": 0.0888,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Escuadr\u00f3n",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.16528,
+     -36.95109
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "40",
+    "amen_TUR_03_CAMBIO": 0.0381,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Bah\u00eda de Coronel, Playa Blanca",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.15056,
+     -37.0276
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "41",
+    "amen_TUR_03_CAMBIO": 0.0056,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Tubul",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.43845,
+     -37.22769
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "42",
+    "amen_TUR_03_CAMBIO": 0.0095,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Llico",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.56129,
+     -37.1845
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "43",
+    "amen_TUR_03_CAMBIO": 0.2148,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Arauco - Laraquete",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.30954,
+     -37.23641
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "44",
+    "amen_TUR_03_CAMBIO": 0.0518,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Bah\u00eda de Lebu",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.64774,
+     -37.59049
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "45",
+    "amen_TUR_03_CAMBIO": 0.1248,
+    "expo_TUR_03_FUTURO": null,
+    "expo_TUR_03_PRESENTE": null,
+    "riesgo_TUR_03_CAMBIO": null,
+    "sensi_TUR_03_PRESENTE": null,
+    "NOM_Playa": "Lebu - Tir\u00faa",
+    "ind_opt01_CADENA": null,
+    "ind_opt02_CADENA": null,
+    "ind_opt03_CADENA": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.54069,
+     -37.87598
+    ]
+   }
+  }
+ ]
+}
